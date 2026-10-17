@@ -1,0 +1,2898 @@
+{
+  "importedOn": "2026-10-10",
+  "sourceAlbum": "https://drive.google.com/drive/folders/1-9L6rcsXpkD9mD05FCnRoqm243i2zljJ",
+  "images": [
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1-5Kr7qyns8XhtdhDcSlJf7-8loLbKIty",
+      "title": "morii_digicam-55.png",
+      "sha256": "3b1d40ddf301a4760d24a7f92b7d8f889311e7f12916c9653a127ab91a70e29e",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/3b1d40ddf301a476.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1ng9otIVuV6NxQxEfvfMv6YbIANqWayrH",
+      "title": "7.png",
+      "sha256": "e01d3821f145cbe604b6645f5dc4e87e5bb290d2438613ab7cff7a8538e0c267",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/e01d3821f145cbe6.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1PYiVAxJsDPp9VtIRNkQban1FNBKT6Tlh",
+      "title": "8.png",
+      "sha256": "66c497dddb0fc61e450bd533beb36723dbad6ea531f200f790f7cad126cce037",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/66c497dddb0fc61e.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1dZACX5NsGVbWuiDjqxVPmfoBvxh97uao",
+      "title": "1 (1).png",
+      "sha256": "5a6d9856bc56cee1af9b48d05005dba2ce271e0a47fbb945a37622922efbd9df",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/5a6d9856bc56cee1.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1N7kD6N2gSm9-5_6Hv1Ah2J9t8f-9J4W4",
+      "title": "2 (1).png",
+      "sha256": "d6798e77340f125e25af70e684f31765ad892eb7a1b8c316fb7e19506dd50bf2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/d6798e77340f125e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1b_ACGczF38wy2x2qDoUcwTDirB3H2nkW",
+      "title": "3 (1).png",
+      "sha256": "131d252c326e3b2460a9369431a2f0da49ea7caa489c694374a07cf4be4c86ca",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/131d252c326e3b24.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1nsCGwYt8Wc9wB9rxFPv2IVYUti5Ti4dl",
+      "title": "4 (1).png",
+      "sha256": "cfa5ed3130fb802b452981b4e40c53dc2a3ca1d799fbfc3d7f51016fb04fca54",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/cfa5ed3130fb802b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1F-c3AxIU2OZcJHLCAnlCYYllNAZiXXf9",
+      "title": "5 (1).png",
+      "sha256": "0c13799955c36dcb5e235cd2d6887b39dc33d03ff5390029cf31841816852e15",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/0c13799955c36dcb.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1KvWuanDHY8T5kEesslu0hkfm9vgk7Xjq",
+      "title": "6 (1).png",
+      "sha256": "2319d06cc45c116598e400d07297866831c19b357cb7c81b27f56bd0f37911a3",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/2319d06cc45c1165.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1B58uJf6EfAF_Hybri2Oa8eAW5olxBhgp",
+      "title": "1.png",
+      "sha256": "3cd1972b65d4829b03aea7a7330d0e210749f768103522b1db9f6cfd846608af",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/3cd1972b65d4829b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1gTCD9djdHr5c8VWk5QvAb5tRc3dhiez-",
+      "title": "2.png",
+      "sha256": "9066cc460fc7914e53eed6cbd2f50a1a69caca81a5d75f600588cc8da1fdeb53",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/9066cc460fc7914e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1UNFf6ZVBcDYwqU3FOAk63e7FVRuOZMXq",
+      "title": "3.png",
+      "sha256": "637bb1cad6fbeb5b39aa6de64f6f1d8b9c597de7c4074ed3b4110f358da81c8c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/637bb1cad6fbeb5b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1nLzXzHDYgBrhLR-71kbgvbtDu-CTuZMD",
+      "title": "4.png",
+      "sha256": "45b0315c2e6ccc82a3915b7055891b7fb14bf92cdf86ed051368cabb20ee13fa",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/45b0315c2e6ccc82.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1sk8yT0m91IxV6IUjwa5m20arFbMuUPYb",
+      "title": "5.png",
+      "sha256": "982e76316de86df7f66774eaa9710ce2e7a3712819ba8f8ab224c79454cd4b9f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/982e76316de86df7.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-600f",
+      "driveFileId": "1ljZM8o7cW-jXHpEm002eAuhG8O3E1erS",
+      "title": "6.png",
+      "sha256": "cc566eb72378da1cf17cf016efdb006d0c2d958786767c48461f323df7454bee",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-600f/cc566eb72378da1c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1mPDfq6PVQ2gtcgLiwyGKxPWKXl7F6QKu",
+      "title": "7.png",
+      "sha256": "f4f99edafc59cf1720be392af85761de126f71dd6e17cedb069115cc216813c9",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/f4f99edafc59cf17.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1zbBHsZhruyIVr_phrKaOz7KRXg1B0u_s",
+      "title": "8.png",
+      "sha256": "714f2fbe3dfdbb8b81a9ce2a809a504d9f7ac62ae332e9dab5bc48a5f720d434",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/714f2fbe3dfdbb8b.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "10hPfKsLNPc-wvaPX1CLLNqgnwTCsxYK5",
+      "title": "1 (1).png",
+      "sha256": "18651c611f0ddf3bad55a2cd0e0bc6592e3daa84d86a53640056e7ba2899cb49",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/18651c611f0ddf3b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1GBVDagJbYrJT7UGI9eIO5In_4ZEHpFXI",
+      "title": "2 (1).png",
+      "sha256": "1e3150eec2526a0931878813b5f213363f1f688f3d8e265d17f963396849a370",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/1e3150eec2526a09.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1OnTV-v4tOhKD237QaCHuLyMHCAHQRA7F",
+      "title": "1 (3).png",
+      "sha256": "dc9394c8ecee7714752135f8b03e3ae82783d96b841092c4042bffb22b8fa121",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/dc9394c8ecee7714.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1V6zmP4KbwiDrecZBIEP4u9F4jtKxxRtt",
+      "title": "2 (3).png",
+      "sha256": "3c6f64fdc9d39af848de6ec17f22ac06731852357beb7235b9e5f14c2cb177a4",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/3c6f64fdc9d39af8.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1FCV1kgfqR6VcC9P4NcvYQr3r7cU7jOs7",
+      "title": "1 (2).png",
+      "sha256": "0bf5ad3c3b5aac44b195e4398579bf651e733d76b9b762dc166ef15eee82048a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/0bf5ad3c3b5aac44.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1Ty3uXQohSGPw3clBPEuj8QKp07LU_evq",
+      "title": "2 (2).png",
+      "sha256": "7c4a8a8123783c9b0a1b0b09bd7fffb593b284cd672470e344c6c9c20b11294b",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/7c4a8a8123783c9b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1rlgw3mHkOSNurWlwEaUXp8cGZfNj09Fn",
+      "title": "1.png",
+      "sha256": "53757ee19f3b491e258320fc68d775842614557150affe766824792879c05c33",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/53757ee19f3b491e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1UuBUPobaYmt9royyUUqW04rRp5wPj0hb",
+      "title": "2.png",
+      "sha256": "b40879b27e7dcf8c76de1d664c61149b5639660b66c4d6727a612d2aa0e720b3",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/b40879b27e7dcf8c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1He_OqAfaKT65_Neibam8e7vXzZk3LbAI",
+      "title": "morii_digicam-7.png",
+      "sha256": "fd5654c4c7f46d7c90d460aa117450f1b974c67fe677ccd04b0dd59946198f3e",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/fd5654c4c7f46d7c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1-5yOt_l8lKC0742fSTGFlgGbdg7OoZmk",
+      "title": "morii_digicam.png",
+      "sha256": "993d421b2eb4ccff08d4bf914e20fe32f520583fcfb7d95df194d432f3df21af",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/993d421b2eb4ccff.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "11exFaWbmNG7jmlcs7Ftz_q17Gn8Y_rFo",
+      "title": "morii_digicam.png",
+      "sha256": "0bd8bd220f99cf0e8d869da39f372fcab5110e248ad75598012d32dfbd4e3675",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/0bd8bd220f99cf0e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1ABVZjQKRw2N7yFMSBLrCrbUFX0KVmTde",
+      "title": "morii_digicam-5.png",
+      "sha256": "7666f2b85ef936070cefd2af7054abeb05058ce14989df24d73deaad5348418b",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/7666f2b85ef93607.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1s1rySNoi0f_9WJ-yJ4r2Dota_KT_qtZP",
+      "title": "morii_digicam-4.png",
+      "sha256": "852b351373066ffcef0a1c126f8b1cc6c4cd34fb07935d07440ea1faf1965f74",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/852b351373066ffc.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1xlha9O3qHzgZ4YrffuhCyjYJ-E4Yccht",
+      "title": "morii_digicam-3.png",
+      "sha256": "b3ebb301563d8222f48c5224e421ebd70ace9adcbb9e0390798a614a2ebc12fc",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/b3ebb301563d8222.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1nHPUJjtqcBYVy8SSEAfnMbvtcTo5F17X",
+      "title": "morii_digicam-2.png",
+      "sha256": "cde19eab76c918025f28c540ecad0c6eaa85d70ac4ff04b257abfb3d28abc5a2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/cde19eab76c91802.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1e4dq1XDqU2KkNBBUeg2vV5ME8zbb9q--",
+      "title": "morii_digicam (1).png",
+      "sha256": "7cbbb736dfc5a2fd75d4545a5a431056bf591cae2530456fb8b7379a180305bc",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/7cbbb736dfc5a2fd.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1Ec0bo1B2qkLGRUmnjIETXta2Y-UXEuGs",
+      "title": "morii_digicam.png",
+      "sha256": "4d66a726fea8e85f7396f6c367f20090a920d5185e5ffcf2242892222356237e",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/4d66a726fea8e85f.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1c91Vb5lXbTYDOzhe6MBnms6gUk5Oj4F_",
+      "title": "morii_digicam.png",
+      "sha256": "0fd1f29680ac6af64becd2a127d1f14a80636993ad826285c5366fac6fe91b63",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/0fd1f29680ac6af6.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "17100hn8Kbpx_zi8nBPq2meUPIaj29VNu",
+      "title": "morii_digicam.png",
+      "sha256": "40c16b56e4b8b4f8b0f5fdefd1d8872444ca386d8b2271934ef2bc697b704e5a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/40c16b56e4b8b4f8.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1jzG76OEDRc34K61xTZtJOdLkCQcdUjDj",
+      "title": "morii_digicam.png",
+      "sha256": "4f2b396df5655a6a748aaae6e2138df0c0ce9b919170c8106d768c7f5158f989",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/4f2b396df5655a6a.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "18JWm7LA4drdbiGkRPzgeDiffBuGhxDcV",
+      "title": "morii_digicam.png",
+      "sha256": "47774763a010e0201d42966e7550568c2c8bea9cc1cff3e56f3ed07388cbd0a2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/47774763a010e020.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1ERquZ5eMuLXSyD1HpRMDE7iBol5MiDu7",
+      "title": "morii_digicam.png",
+      "sha256": "0692b12a030b42db90ddaf2e710edd0d65adb30248d9ccd46eaaacbd67d49426",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/0692b12a030b42db.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-910",
+      "driveFileId": "1tOomMQXfOJAIl76wEVvdYZnF_yYdaGQU",
+      "title": "morii_digicam.png",
+      "sha256": "b69ea68ad4023efeab6288586e150cd50f674be3dae3cac6987e67b9f3972e5c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-910/b69ea68ad4023efe.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1PgyzQ1r4_zytgDIPpjVUbxTriWTgUhT2",
+      "title": "1 (2).png",
+      "sha256": "834177079e9658e9197fc8b69df56c8469bccc8d42f6ca00b654c3ec53848a86",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/834177079e9658e9.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1a9sWhXeQIsLbkBVWA-uuvDY_JTSoeIpR",
+      "title": "3.png",
+      "sha256": "44a1c0c9cc8749ad9df5abf3e79c3b129ed6794c1d96daed1a24f145f649c111",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/44a1c0c9cc8749ad.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1rMX4fbsvrdM0r6jOBX6oVVEcR_LtaWgZ",
+      "title": "1 (1).png",
+      "sha256": "56bab01e0e528d2f28479e6d9e60ed8a4aecf93c34eb679b97ad5fc6f69fcb6c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/56bab01e0e528d2f.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1612OtOIed3RZsf5MRe72pHFoQefR76dG",
+      "title": "2.png",
+      "sha256": "f4c7346146740c9f88f280b5495a9fa8f26aa77d778e70b530d10fe819398d63",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/f4c7346146740c9f.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1HRdrqLkNPi1ZbtDJra6SLqQlGuxrdHML",
+      "title": "1.png",
+      "sha256": "6b916bc89109051efeec19a91bc4b06bea5a99e7997578a01083aa9ec65b8863",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/6b916bc89109051e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "16n4g9IzmyuJThvkFanD3NBNwNv4YSjrG",
+      "title": "2.png",
+      "sha256": "e5ebc3805403a097d8e2bc37c192604894b29c78093c4cf70efa340e04c7aa34",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/e5ebc3805403a097.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "17jGv3IX-Qt01nEjHbxsqyVvVe_kjNSpB",
+      "title": "morii_digicam-40.png",
+      "sha256": "614650629bc1d0fa777948ebc9d5bb61d030e37496da36c795361a5b5df74e72",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/614650629bc1d0fa.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1OemhNY7U7_S2YFD1uuOfDDhyj2zjEkng",
+      "title": "morii_digicam-37.png",
+      "sha256": "74682ce508ad6c6d386318ce3447c09c74d7cd5107ba45b4e8264bc02b85dcdd",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/74682ce508ad6c6d.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1UqyEvb4z64kOF47KRAHsf6txfsiMCDaU",
+      "title": "morii_digicam-36.png",
+      "sha256": "6f11509b661b0290da13c649bc5ffd7aa83097df8dd01861a4e6f193a59f470c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/6f11509b661b0290.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1C5udAQTVbyBtyoT-tYlG8Omh0u44Vwbk",
+      "title": "morii_digicam.png",
+      "sha256": "81362c9078e8afd2b3a1f809a47a5aaae200f82cb5a1c81389050fb3a14a318f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/81362c9078e8afd2.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "17fRudpNbj40pfNp0s8v6uLkRIxxn-HCT",
+      "title": "morii_digicam-28.png",
+      "sha256": "61421bcd751be975da2e3b9c8a3ced815db27a6314b8a0241eb746891c040a4b",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/61421bcd751be975.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1aQKK3BeHQgg_3gbVYy60HCQ_19dRfRhr",
+      "title": "morii_digicam-28.png",
+      "duplicateOf": "17fRudpNbj40pfNp0s8v6uLkRIxxn-HCT"
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1zO0bJ_I-6xxqr0Cni-KgG0BJ4LPLVG_Y",
+      "title": "morii_digicam-27.png",
+      "sha256": "f48f91dc12455e2dc78dd40bc3949ff6da56d10a4fcf80bbdd1a6192805253a8",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/f48f91dc12455e2d.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "14ai8oMZEuytcYzL2wPrIbBFiK-ziGpPF",
+      "title": "morii_digicam-27.png",
+      "duplicateOf": "1zO0bJ_I-6xxqr0Cni-KgG0BJ4LPLVG_Y"
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1sji160s-o8Ck2FpfYSNnkdNFwKvezzce",
+      "title": "morii_digicam-26.png",
+      "sha256": "f111c52f87e000b4f235b7f243514beb2f57548d6305d5f3a8b376ba63dc795a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/f111c52f87e000b4.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1e_RpObSGJjfPr5wjsdMx6oL9_vOtlT0m",
+      "title": "morii_digicam-26.png",
+      "duplicateOf": "1sji160s-o8Ck2FpfYSNnkdNFwKvezzce"
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1xvSbi14cS2ddl55918nsz02KukvZrf9K",
+      "title": "morii_digicam-25.png",
+      "sha256": "7bddee2badcddbcd675b91616c8a05cf7ad948bb6553d2ad5449da1b491b40d7",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/7bddee2badcddbcd.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1s4qgVG1U_HjehKsYMC53EpvYf9gr_8zi",
+      "title": "morii_digicam-25.png",
+      "duplicateOf": "1xvSbi14cS2ddl55918nsz02KukvZrf9K"
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "13bjZUNWDJKtJEOmh6kBhyRfmaGVK-_-j",
+      "title": "morii_digicam-24.png",
+      "sha256": "951fb2848ed8d3402417eab3154fd6261bc4723ffaac1ed56f8dd8f13c2ce172",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/951fb2848ed8d340.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1pGPPDcGv7pPyxo717qStuPhIbv7ZqaEI",
+      "title": "morii_digicam-23.png",
+      "sha256": "2cf88de9411196af2a62470abec3032c97d3717dc70cfc5cfa719eccdff90e46",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/2cf88de9411196af.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1e4Aj-lmww5HgYEeJ1_6p3g4FeVk6JAGk",
+      "title": "morii_digicam-22.png",
+      "sha256": "335da0b474b2afdbf092056a3202320631cb5eae701187081f309c906eed84ba",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/335da0b474b2afdb.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1yL7vBw987KxXoJQLvLLylCQDN7a3G27p",
+      "title": "morii_digicam-21.png",
+      "sha256": "3c16bdfbdeb90fa11d344ed215f13f85dce210446e211bd32de76a8c15854d67",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/3c16bdfbdeb90fa1.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1h2UbN4FXSBWI2_0-4DgLcNgdzmw2QS9m",
+      "title": "morii_digicam-20.png",
+      "sha256": "e947b7bf4569ddc4baa5aaba6e7ee0c12ee231b6117dfa5672cb27de12159e20",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/e947b7bf4569ddc4.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "11r3QDmqK2WXpUnJBSTKWP_AfhTUY86vB",
+      "title": "morii_digicam-8.png",
+      "sha256": "57a1f2a05cb53a1021b4a2b190041d3add442738d189893543da3b00698e6f35",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/57a1f2a05cb53a10.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-900",
+      "driveFileId": "1TYhZ4Jbde3Dzn3KEWA8grI0fgbLunFsa",
+      "title": "morii_digicam.png",
+      "sha256": "efd3480cd9e2ce31b816a3cfeecb8a0721cb0b54b45447778bebe6d1964286b9",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-900/efd3480cd9e2ce31.webp",
+      "originalSize": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1ym9jhhAcBghviRU-y2AKI2bAEYD3W5za",
+      "title": "1.png",
+      "sha256": "53fecc6e7b7807c8a026d24b6c7f9af63e20dbc47e349128f85db992b5525cb0",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/53fecc6e7b7807c8.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "13Lbi9nR2fWlYC2C2vEYcc-E6byePWEjI",
+      "title": "2.png",
+      "sha256": "3d020f86cf621297cd791454448be2653680a76903b7ce3a6aca4e2800d9cfcb",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/3d020f86cf621297.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1e3k5wnmpycPIirYBRIG6tgc94Ks8bi3K",
+      "title": "7.png",
+      "sha256": "c22745b9ce626bcce88e5b9b3959d20376ad1f33543d03115001c5fc0bb84f04",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/c22745b9ce626bcc.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1yEGovWau8xpYmBHegv71xycEYgTEZdxS",
+      "title": "8.png",
+      "sha256": "b9c704d55ea0726e20dafd0e43b67968104f558d428219161968174e35bea2c7",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/b9c704d55ea0726e.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1l0kPLXMDtMHUqbVObJd_WGlGx9sadMFf",
+      "title": "morii_digicam-33.png",
+      "sha256": "65b1df453366d394a508b423ee7c037dd4e8c4ab1047d907578e975b87aa54ec",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/65b1df453366d394.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1giI8pGbK9yXUQof4BW5IySUgvqiIX4RK",
+      "title": "morii_digicam-32.png",
+      "sha256": "e655a0afb99a4dce08323fde15f31675359eb630a816a33308fcb90ab896333f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/e655a0afb99a4dce.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1r9upHy4wrp9G1Jk23VrkbePYfJ97e1A1",
+      "title": "morii_digicam-31.png",
+      "sha256": "7facac3bb3d3eadb51d8bdee02d0dd658064fb34e31c4f1c8c8741ed72816c5a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/7facac3bb3d3eadb.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1ZIgVcuNBl961F7onVyUjhfSNLIIDWK2n",
+      "title": "morii_digicam-16.png",
+      "sha256": "57ca4d6901c9e81d826838d686d5878283f43c622a80da53b5e059fb09f49363",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/57ca4d6901c9e81d.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1579sHUg6pdp1-nk7uulrqL3YOuTiPxl2",
+      "title": "morii_digicam-15.png",
+      "sha256": "f056f12e3670375a79ae9a1d86d6591c0de709222ddcd50c989b086f40b8edcd",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/f056f12e3670375a.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1pqkDSZFoWxjZ-k0mjPF8_GfUZpgIxmOf",
+      "title": "morii_digicam-14.png",
+      "sha256": "cddda2ea8bdfde3b91e31770337f761aef524e2839213e778483d24c0586bd84",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/cddda2ea8bdfde3b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1nIHrnySAycAJalAdQeeOkNr5S2_llf47",
+      "title": "morii_digicam-13.png",
+      "sha256": "d18f000cfee2e3bdd7a69c90406e8753f894fb48d8bb3faa6dbf13b8fffed941",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/d18f000cfee2e3bd.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "19Ob9zxb7brItafEmN5WZ8mglukTw2tS9",
+      "title": "morii_digicam-12.png",
+      "sha256": "d485c497c7243096da205db1ba973c02deb3dcec00799ca27cb9709800162a2c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/d485c497c7243096.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1xuLNa5trhuMMenwJocLPUyJd2yaA7TRk",
+      "title": "morii_digicam-11.png",
+      "sha256": "ee63c17f5fb5161800447a94336d397847a71c6c9677ce21737c2ba5544cf60f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/ee63c17f5fb51618.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1AFurz9qPuddkxXsqXSh6T3C-PAFwan_U",
+      "title": "morii_digicam-6.png",
+      "sha256": "b20317e1b7e76f8ebf90ef4a06a741532293f2ac43e74491c4d3f0ea8aa44fdb",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/b20317e1b7e76f8e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1xdiRrhheWG1oUflXNw4WKoJ_CpB-s1IH",
+      "title": "morii_digicam-5.png",
+      "sha256": "fa3a9d3dc38ed879e22311c0a83b4f34bd714535d79c2a6cf4c135c1765e07fd",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/fa3a9d3dc38ed879.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1r3-sH2k76SXDHuLx9gtjQyl4OuaQK-Cj",
+      "title": "morii_digicam-4.png",
+      "sha256": "5b5f83245454abe7b0c748c0412b27bde99a21083a80efd0613680ea8a87fb36",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/5b5f83245454abe7.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1T0rDAlSAHa1vSNyPP-kM6LQZ76SAS4Tx",
+      "title": "morii_digicam-3.png",
+      "sha256": "d8fb9ec75f1803eb09f36f00218819df4fe6002c4e28f0b3848340da5039ec89",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/d8fb9ec75f1803eb.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1H0A8F3QFR5d6qGW5XW56ovEVX3_43qRe",
+      "title": "morii_digicam-2.png",
+      "sha256": "eecdef57e15ffe4a82b05bcbfa618c67372d83eca48a689f3366ed12d392c363",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/eecdef57e15ffe4a.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1mBC6kYW5WlHDuoo8ekjjcBuqj5GMjK9T",
+      "title": "morii_digicam.png",
+      "sha256": "450bd9d4133d21b632e83fa9453f6c517c6047b6aa72f30cc78d7ac64f680eb7",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/450bd9d4133d21b6.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1OH55on2zGBTw0SSf1rPnkPFY8G_Gpgnw",
+      "title": "morii_digicam.png",
+      "sha256": "a7265311bc040b357ed94f56bad06232305b9ee767eed3ab806f88e46be36977",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/a7265311bc040b35.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1kjqqlNUgQWL3lUP3jQj0u86fia0THNig",
+      "title": "morii_digicam.png",
+      "sha256": "1c63b13c6082ac32bf63252766bd1580b9d680ab717ef9fbb62701501365c659",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/1c63b13c6082ac32.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1IL8Oe9432aJhaAilY-m0jGleBeHOO9cH",
+      "title": "morii_digicam.png",
+      "sha256": "5f9ccb99454acee52c10fc81eba72aab23d46caee117a2b7c7b21ebdaf91359e",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/5f9ccb99454acee5.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1AISdPhStBQ16wU7f1v-oW3iHwGyRgivV",
+      "title": "morii_digicam.png",
+      "sha256": "c3d2e312346a9130136cf02a09b21584c4bd42ca8177625063ebce4b9cb1e593",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/c3d2e312346a9130.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1KeR_WxyEoA97ZjmKZcvOBUN6oVcuwlBA",
+      "title": "morii_digicam.png",
+      "sha256": "89a8174cd9f9ee85af7b106c2575a868d053f76f4c310cfdd0c22e7cab77e63d",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/89a8174cd9f9ee85.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1H9ENHtFdmYcJbPTkH_B-9G-RkT4e-6WH",
+      "title": "morii_digicam.png",
+      "sha256": "2c5eb931f7fd7d1193d38139e06cb4c572c51cadfdd4867f2476f8a13f17c5d3",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/2c5eb931f7fd7d11.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1yvo0-paE6MCE0p00qV7As5ReKPh0plQ8",
+      "title": "morii_digicam.png",
+      "sha256": "33be616e3bf9bf3ca95a9c9bc428c9cd19f9516f1806239fc49e6362e1229715",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/33be616e3bf9bf3c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1GJhj0qB_CIJUphpp1m3UYapg51apPFo9",
+      "title": "morii_digicam.png",
+      "sha256": "df01017a73361c1c4db658a58785df533f965d2f33d25d49c5e2331ecbc10177",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/df01017a73361c1c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1UK2iEU3oOekub4SIKNq49DIu3x3QMzlT",
+      "title": "morii_digicam.png",
+      "sha256": "76ec6f4a01e7e19cc9a7b0ea05dee88d0994536e5b0ce5f01214dddc39c016c8",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/76ec6f4a01e7e19c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1Uge9ieeBX5pxBaCuO_eUXsRw43K2zxSO",
+      "title": "morii_digicam.png",
+      "sha256": "9309e81260e67388ba494db6b78e4a630c44357f072fe06aa35e6aaca8cf8a8d",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/9309e81260e67388.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1eKtx6E50Qs4frI1sMhGCgBN_DjAbDWCG",
+      "title": "morii_digicam.png",
+      "sha256": "227c963affab5b1ebabb6f9eac7878a75ceed00b6fae4a65748b8611622924f5",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/227c963affab5b1e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "17FTwWCnYIl3SeJsUWDLuXoyWQsrfO1M_",
+      "title": "morii_digicam.png",
+      "sha256": "495d847d9de5a1998b7ee1be6ce8069c061f40216c6e830d0ef8ae1c039367bf",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/495d847d9de5a199.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1xAQhpSrSHOnE-_ApiDR8jtUBozojtSKe",
+      "title": "morii_digicam.png",
+      "sha256": "d10d43b2cc65654aa73b36445384749fa2bf3ab26d102bc388d9389e1f0c6991",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/d10d43b2cc65654a.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-920",
+      "driveFileId": "1j3drh16hn1jdSc6-wjdyzQ2srQNLMlw9",
+      "title": "morii_digicam.png",
+      "sha256": "f63a181e18d8085a4b3ef28e877a90774cbb04dc21eb91c281f0a226b4946442",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-920/f63a181e18d8085a.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "139CajzFfDpAII-BvZq8607owVDhJWJx4",
+      "title": "morii_digicam-56.png",
+      "sha256": "779e0570019079f5d097fa3451163aecc1a4aae1f2e3f38bdcd22eb4c3b4743a",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/779e0570019079f5.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1uFXO2438JJ-JYll28qlqPMc8cbwHuThu",
+      "title": "1.png",
+      "sha256": "ee9b1e4ca8c087a9f4906fc2b26dc9d0fc5635889adc13af19ff20affb70747f",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/ee9b1e4ca8c087a9.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "16KxJw8EVCEdJyUUJpOOUQIiwzy4lvYdQ",
+      "title": "2.png",
+      "sha256": "b2757a5ece55928992a6cc58c8d14c8802ee68539e584ce752c9755f36ffdbf8",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/b2757a5ece559289.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1XMVAGIIQ1DJfCUvIRF_-8UT3LYOfJhaT",
+      "title": "morii_digicam-30.png",
+      "sha256": "cf155858c437da0e4c8796e19c6a28a950d0430a694d6b78444720b8f3700be9",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/cf155858c437da0e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1EHGSftz3b5ORWkrNqLJW7-2nzRInaHxD",
+      "title": "morii_digicam-29.png",
+      "sha256": "20ece44ac48c275ecb04097bb5c39baf62e7e748be47533187a825e698f245c7",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/20ece44ac48c275e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1f9CPEh1sSNXY2_nW_r_wPcefRZzU-Qww",
+      "title": "morii_digicam.png",
+      "sha256": "2e97d5cd56a362d4022797c3e708a980cde67e9c3e89808c1680b3880d670369",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/2e97d5cd56a362d4.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1WpSU4R1ypuLcWKALEBZ3g3QEbpEldCM0",
+      "title": "morii_digicam.png",
+      "sha256": "fc90458331d9ba88441a61e112f90c12a112ac4e0e4fb0ace52af262b2c28469",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/fc90458331d9ba88.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "19svbGTSxVKHIQcgmCOSlV1HlqodV2u0d",
+      "title": "morii_digicam.png",
+      "sha256": "4da578e33a309525b6be8a00d4857110f36a6d2e620bbb7606a935c21b1ce62b",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/4da578e33a309525.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "12srqIbFq75vgzE2B_HmyoOYdHcObhKw_",
+      "title": "morii_digicam.png",
+      "sha256": "78f95c1a7186de34532dc839d2dd391fc22938ccb993af901f2cd0e929684e9d",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/78f95c1a7186de34.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1wo2vhz5pkVeKJSJVNXO4NfCBocmcoEhQ",
+      "title": "morii_digicam.png",
+      "sha256": "14b9c7a01c2cd97df26441f4aa8a8d5b7ad3e9cf0e2404cd3da6a8bd97d63ac1",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/14b9c7a01c2cd97d.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1gTDPoOme3PmfC9e9UH83Iin4WSEhxx6-",
+      "title": "morii_digicam.png",
+      "sha256": "caa636871801246e7704f6f3ad31db07290ad27c32ce3c33f43052bbfdf79035",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/caa636871801246e.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1xA3aG5D2az5TSo4SvyNDL1AO4xqLj530",
+      "title": "morii_digicam.png",
+      "sha256": "20c95d0db495f8e43224a6df7b858b924f41515af2d0b022115c49e7f5d7ffd0",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/20c95d0db495f8e4.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1j5uvIYTBg7EajRXxDvQl37Q3uXVFrLi-",
+      "title": "morii_digicam.png",
+      "sha256": "c24d754d963a713e1c897097fbeadceee01e19cd11e76946d7a26c4ae3f12108",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/c24d754d963a713e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1BRhQ2lCo8jabA8ZUvB2HSIi2nxvcSRq1",
+      "title": "morii_digicam.png",
+      "sha256": "2d740122f2049cf33824565c8d8bcfe1857d98db85e9043390bfb32f7399c921",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/2d740122f2049cf3.webp",
+      "originalSize": [
+        1350,
+        1080
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1uN1pbga2ePMUAUaFP6Ir3FX8XYSq0Dz5",
+      "title": "morii_digicam.png",
+      "sha256": "5f20d6f8b6741c91969522071ebff34527fecb4ae19cccb41ffd961e545e171c",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/5f20d6f8b6741c91.webp",
+      "originalSize": [
+        1350,
+        1080
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "157op5qm10ZlEh9gfMhGyl3H3iv3qYPM_",
+      "title": "morii_digicam.png",
+      "sha256": "eb19f70d2f166fe161863b6e3351e183d2b94e49ecd51d118403bdab51a856d8",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/eb19f70d2f166fe1.webp",
+      "originalSize": [
+        1350,
+        1080
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "13GnWm6xUxuG6e1iz3dqaLwozl6mDfOgB",
+      "title": "morii_digicam.png",
+      "sha256": "23fbb1805e44ebdefa590038de9d995dacdeacbd5dec82edce870590fa9901e9",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/23fbb1805e44ebde.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "16G3Qnr4qfLrP05GeX93N9HgkIctUYScG",
+      "title": "morii_digicam.png",
+      "sha256": "aab6695f685fc43c8b4d5819469e43a75cce792cc6b9b7a993e3775014b86807",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/aab6695f685fc43c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "10EAUVVJH9onfoPN9SoAPlalpwIR1JvZQ",
+      "title": "morii_digicam.png",
+      "sha256": "6d3607647cbfec80a3a5a492832a589a8a9f0d4b99dbbed57b479f1ba7c5540c",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/6d3607647cbfec80.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1wpND8HNCeOIzsYWuwM7VabEb3IdyamfQ",
+      "title": "morii_digicam.png",
+      "sha256": "8175effcc8d044e8a8c11156340c7f260a30058756a10c8a45a20e2006e6dcf9",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/8175effcc8d044e8.webp",
+      "originalSize": [
+        1572,
+        1042
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1T-_Zg2KpGwqYBNCbCXjS0ptcqbhd1POP",
+      "title": ".png",
+      "sha256": "15d615dbd98b6534b9c22215f3313d191430c961ec7e3c4d5652da9c3300fc24",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/15d615dbd98b6534.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1k5fB8bffGMF2w1zOunF-eBQDhzx5kzyu",
+      "title": ".png",
+      "sha256": "fd042a0945de6905ff9c59e0b04581584c5a4b72f733b122984cb06815a9af24",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/fd042a0945de6905.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "16eVEwd1XXAZRQdQZ3_e_4X5Hm6aPxBev",
+      "title": ".png",
+      "sha256": "8bf58096d908156d2b525ad5497263a81a71b924db717263788cdb79a6e2183f",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/8bf58096d908156d.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1JOGXV6TaVCycW34i6rB5ptFMXG0uCnMw",
+      "title": "Untitled design - 11.png",
+      "sha256": "f69b996eaa8f0acac6824f6ec4c43d41d5bfd4b5fbd1076cf55c6c9fd3243bbd",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/f69b996eaa8f0aca.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1DedmKSynvdLZu6z8HV-nZF02mLubhUol",
+      "title": "Untitled design - 12.png",
+      "sha256": "c95066121bc2234f55cbb0f3dd54b322febc66e46dec2905d97a34594bc44d26",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/c95066121bc2234f.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1El5oQel8dKq69Bjo8fKqy3DOzdrVChg_",
+      "title": "Untitled design - 8.png",
+      "sha256": "60f462d527e4aaa9894ab78a273781756350f17dae82d2c1fd2988fbfe2bb4fd",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/60f462d527e4aaa9.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "10Mjq5S220goUJ25k9-O3m38c_cxKEXo_",
+      "title": "Untitled design - 7.png",
+      "sha256": "a65e3886a0d04adcc90bbc597670159903159ecc2e71bf1ea503c5400124506b",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/a65e3886a0d04adc.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1cP84rQ436dqwPdfXNDIh-5rheyMT11Us",
+      "title": "Untitled design - 6.png",
+      "sha256": "e4183d9cade71e44dd675e17b3d97c794ed72873ac60a39ab904f43a0bb824d7",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/e4183d9cade71e44.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1wRHE8DfCVq7F89vMjHfmqywHbOlLVPOv",
+      "title": "IMG_0721.PNG",
+      "sha256": "a1441c8384df6c5eb9fe8e7c42655c824e68a6f1ade17577d251f07cb98a96d7",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/a1441c8384df6c5e.webp",
+      "originalSize": [
+        1097,
+        1491
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1cvlRcA7w5DIWGigyvD0oPPqTSyi_JVL-",
+      "title": "IMG_0657.PNG",
+      "sha256": "acbe77bfb76c078e93b2ea3c7d2088c8ff89ea4e37fd6a50bedb876b33ae5489",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/acbe77bfb76c078e.webp",
+      "originalSize": [
+        1477,
+        1108
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1jS_QAOgev0wDxW0cVtDfTIZIdWjdb7zQ",
+      "title": "IMG_0656.PNG",
+      "sha256": "c043ce12eaaf2749273c8ab3cfe6ddce50ce9821cf4334595df56337512a834d",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/c043ce12eaaf2749.webp",
+      "originalSize": [
+        1477,
+        1108
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1kJGmw24wthtRjxdv0POzn_01Vhs_3y_u",
+      "title": "IMG_0451.PNG",
+      "sha256": "cd56184be85cb6287979186832fa737ca3d9c161ae5d596c578e676a5810f21c",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/cd56184be85cb628.webp",
+      "originalSize": [
+        1097,
+        1491
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1I9F-DOk5kPqluHhXEvAG21RN3oG7i4mi",
+      "title": "IMG_0449.PNG",
+      "sha256": "9d3eb40a5fada8647f06b086eecc9156666cbd6cc9b382fd3c362d69fd83ba36",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/9d3eb40a5fada864.webp",
+      "originalSize": [
+        1097,
+        1491
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1bRcxJbGeuQhXC3r4CyJDoVRuuV8jSmTn",
+      "title": "IMG_0301.PNG",
+      "sha256": "b3bf16d633736098fb9c3e53e8763e1a9b21bc515d843659d012115f698612e5",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/b3bf16d633736098.webp",
+      "originalSize": [
+        1097,
+        1491
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "1ZQd1jmvqOSHetvO3vaZYhoqbIirQ_nFc",
+      "title": "IMG_0112.PNG",
+      "sha256": "c78fc6190a9ebd8de427bb5d76a1c8b66ce0726ecbebd2e51b682aa4f37a9bcd",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/c78fc6190a9ebd8d.webp",
+      "originalSize": [
+        1097,
+        1491
+      ]
+    },
+    {
+      "model": "ixus-105",
+      "driveFileId": "156GEBHe5sOqZcQ1MEfPYofOk4ylrXGrd",
+      "title": "0B353B6F-C269-455E-BB18-77C9081B337C.jpg",
+      "sha256": "bb7d341695127518acbb09908a321f2f482c7d8afb3a487d4aa58e45a5d881b4",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-105/bb7d341695127518.webp",
+      "originalSize": [
+        750,
+        1334
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1SCE633jn6y93CiQK6VnfsMMMFJsx7mt8",
+      "title": "1 (5).png",
+      "sha256": "fc0d9585918ecd7ae51173dc370a7c85957629e7ea73919c4d6b1ea31ddda5aa",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/fc0d9585918ecd7a.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1kzZpfClqO70M9baZKrbOuPY6y-o9SRSG",
+      "title": "2 (5).png",
+      "sha256": "44033106926f6fda281fd679953092accc7d85efae6ea3e69a2ed4efe417a8c7",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/44033106926f6fda.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1FBhNr5qvStKf8NOYKdwLewzgLLPvygXx",
+      "title": "3 (1).png",
+      "sha256": "4086c81d55b7985707e6fa70af722b8e40365b086c591a0deec40ed4dd557f52",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/4086c81d55b79857.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "10AWwQw_j1JgVFAAK3oL61CHmbMgmnXL-",
+      "title": "4.png",
+      "sha256": "22b47f0878004231a97cd65710f62ca9d4c64c45a09f3e7401a509f2996784f6",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/22b47f0878004231.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "10iBQTwQuruxKlh94VGcu3mYmvMSR_jfh",
+      "title": "5.png",
+      "sha256": "22e5417ee3f80d4691c24ef9421bf230ab7b0087b296012daa138c4d8f412a37",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/22e5417ee3f80d46.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1zJt2m-zPkf0JS3WALmRKaHlelyJH1lLe",
+      "title": "6.png",
+      "sha256": "f23390a21f1c8dfbeecf5260027ecdd3b5f499503998b19fc9bd72f8825599e9",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/f23390a21f1c8dfb.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1kJOe1tbHuxL4p83IrlpxbqOFHQ2r4knG",
+      "title": "7.png",
+      "sha256": "294273a5c03352601cb463c03d73dd8f1d2c3a82d40b054746fbbf84c9e8295c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/294273a5c0335260.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1U4_H7CTQTaq2CrMM97azsdRLBGV3Du8f",
+      "title": "8.png",
+      "sha256": "26a5030092d5e777da6484047fe6b7ef74fc6c17a9e6ece2fe293c7438ebb19f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/26a5030092d5e777.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1HPxd9nURTmGp1-rooY9on2S62M8lfkI6",
+      "title": "1 (3).png",
+      "sha256": "824a1f02bc4f15b2b169e43fe412db42669ca3bbb4c4dc9d699e71c626503ec6",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/824a1f02bc4f15b2.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1DkHl6TLoMRMM3mGGh58vzeIVgZxOWzKw",
+      "title": "2 (3).png",
+      "sha256": "6287020900ee75a5d504fb5adb7017187408064b651680b605a99b3df84e3dcf",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/6287020900ee75a5.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1jwBLNo1QEh3w1f6oAxHZhKrPwdQSSJW6",
+      "title": "3.png",
+      "sha256": "70494fbc2dd390c103cd5044e954043a2a34d897da76afe7c31725a0786c15fa",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/70494fbc2dd390c1.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1tRSenFKC9jao317_8UdVY5mLMZpM5h-R",
+      "title": "morii_digicam-53.png",
+      "sha256": "1f8055c073747de44795253d3209ac3efe1061409ea4ce921f4b9848248dff34",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/1f8055c073747de4.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1e8XQYMWSI7t48tA5z4wUUevktqrv0H6i",
+      "title": "1 (2).png",
+      "sha256": "00a781ab105fbeb1463e3693db3f48934910706261c0493855e829aaba9bd52b",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/00a781ab105fbeb1.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1HNhvxHRy63iwIyIUb50X60zeiBYIp9Xq",
+      "title": "2 (2).png",
+      "sha256": "fd28fdc853fadc4ee990233dd9b1355a9772dc10f3305ce75a6f521c76a672cb",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/fd28fdc853fadc4e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1F4hUKYoeH2RT4MrUiU5IAe6RWCCvVYJZ",
+      "title": "1 (2).png",
+      "sha256": "dd8380a38d424d8b7b2d6d55992b29078a0d0b0498a943bf42414cbffa0a38e4",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/dd8380a38d424d8b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1nPOzOiCGDJLLXh4luQ5oYP76CIyfkG54",
+      "title": "2 (2).png",
+      "sha256": "3743f58f7633564bc193939b2750908cb7f9f9c74dff2dfb1edddc3c5d8ef06a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/3743f58f7633564b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1sAe3z8UbkQUNPCgq3ywSBKccXorUuXfa",
+      "title": "morii_digicam - 2.png",
+      "sha256": "a52d5a6fc3976f4bdce9a9b965a653232d522bd8685b8fdb1edefebbfcfae369",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/a52d5a6fc3976f4b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "13QLMSdiPhmVF9xt3FwY41PXhi_sBLMZZ",
+      "title": "morii_digicam - 1.png",
+      "sha256": "7ac63a44dd9cff594482905459b2de5fe1e821ea6e99c5fc626ea50c5ae059b3",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/7ac63a44dd9cff59.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1OQNIkBrizN5I3SVQfbROMrummDDOQAf3",
+      "title": "morii_digicam-52.png",
+      "sha256": "fdbbeafe7cb0e663387a5e08fd9868fa606e641cc49aa072bf5589481044ceac",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/fdbbeafe7cb0e663.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1fprBIxP1zGhp0UiWlGVZkD47ZnuzKXY4",
+      "title": "morii_digicam-51.png",
+      "sha256": "a7fedf4f981a706e336aafda06310d7ea6c4837241491cb52d2b71ee4f82e253",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/a7fedf4f981a706e.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1ohO4uFVh4Yq3V2X4KX8tn2Na30tL7AOq",
+      "title": "morii_digicam-50.png",
+      "sha256": "3e2d3b063ee1bc21769faa8154d4daf9af60f6701a95d783139ff59c5948f9f4",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/3e2d3b063ee1bc21.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1cQhX8xFmGOb1n5yINjw9PjZgXkred7NS",
+      "title": "morii_digicam-49.png",
+      "sha256": "321c07f6a6acc2a7ce15e6032173bf126d414eef09355ba9a607dd2161d2e75f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/321c07f6a6acc2a7.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1YO2nCkoSCAD6bVdg5f2zu1UI9a01xn-_",
+      "title": "1 (4).png",
+      "sha256": "026d1d156ea287c2e3796c370206f0b5a86813658f1705dc3e892d2cc02c2a29",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/026d1d156ea287c2.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1MRrlgagIXr3NrSkkEBWKipzE-chrGMAk",
+      "title": "2 (4).png",
+      "sha256": "531e62b0803e958f03f9ff5f6a7e831525315bf5ad8e7b22026d8c0fcb17e32c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/531e62b0803e958f.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1Lk7CMFbsahjUXxMjIMfIW2ZAlnkqADXG",
+      "title": "1 (1).png",
+      "sha256": "da85523969efe2eebdfd86ee03061e7fe2120e16899a218b46a7cbc339ef7419",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/da85523969efe2ee.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "18LxI39IR5xtNRt0_o-QBMYKzK-G1ZnHM",
+      "title": "2 (1).png",
+      "sha256": "4acb239425df48856c5900cc214d4b300511db764d0eabd3a4e754825f687fee",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/4acb239425df4885.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1z6hrColsr8tt3r5m4RKA358WoLhw4_FP",
+      "title": "morii_digicam-48.png",
+      "sha256": "68190bf275d819c7cf9312bc2b68f6ef1744ea1a935f89c0b74149013d1a8925",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/68190bf275d819c7.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1aWIu_gFbHHNrCg8leFQ2AB5wr9h7k7PA",
+      "title": "morii_digicam-18.png",
+      "sha256": "efc1b811822f7248f6a623ef66b19522b66fc434f451402ae3e1feee69e74cba",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/efc1b811822f7248.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1gc2_s4yEDLoUX9THgMcB49LYnkFOK_X6",
+      "title": "morii_digicam-17.png",
+      "sha256": "f578b02126636aa0af5a778e0a4470aaf4a3f7a3d624ac3e05fb1953bcc06745",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/f578b02126636aa0.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1XZBQscr9DQr-RfXAd8PBncRXoSJRyKIo",
+      "title": "morii_digicam-9.png",
+      "sha256": "879cec56f9106009795be8b881a217d78896dfe4867faf76baeff1d717b3b41f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/879cec56f9106009.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1FCgXntPg-GJgUPlWYbxVnkrpbtMugn0c",
+      "title": "morii_digicam (1).png",
+      "sha256": "0320d8f59c11dc99478ee7fae51e7010b454bad4798c1d00c6d30a331fd8dcb8",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/0320d8f59c11dc99.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1MF9pzVcgZhd14Lz0weS3Xb90NHV9gd0Z",
+      "title": "morii_digicam.png",
+      "sha256": "b43b40d10447f819b682da6f40bd1a395b682e4e2cae96da21a06288d0c3080b",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/b43b40d10447f819.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1lfn1Bpnn1JOr-XDZvr_cXX-2usK1A4uP",
+      "title": "morii_digicam.png",
+      "sha256": "1c6e706677ba4a4e6d530386b19b2576f4af1045745a1ee41f17952952b9ce5a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/1c6e706677ba4a4e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1QpU-bU2KwNio-i2Cnk1gnWbR4qMjw4YN",
+      "title": "morii_digicam.png",
+      "sha256": "e71772b434f07ed48301dbea1798da8a3b79a828de045c0857e659e970510f59",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/e71772b434f07ed4.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1sSaUU9zaRpHWK3AU2JBcGYP5AbgaCyol",
+      "title": "morii_digicam.png",
+      "sha256": "dad64b9c8fadd4be61032dd2a0b7344e765eb5ff5fc0d729495e112d96cd98b4",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/dad64b9c8fadd4be.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1lJabSX0LMO5LfdILmAb9h9-GWotg0AL7",
+      "title": "morii_digicam.png",
+      "sha256": "60c7a13cfb90f2be4a198b06e99ff8e7e9672c5f6a02e9f0e6ab0726ac941537",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/60c7a13cfb90f2be.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1JoRbIm_67tMFeEsO1MK-oNgN6hRDTgGi",
+      "title": "morii_digicam.png",
+      "sha256": "4d8d2fd0768a19d08ffaef5ce602127caf0de775be05088f8bb23b674107ccaf",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/4d8d2fd0768a19d0.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1JPzI9a70i6nl8pnRnKHBytGMJmnte23L",
+      "title": "morii_digicam.png",
+      "sha256": "3b7aa6117668fca8fe5d2ec05bc2f6ba02a6796f2598302ce5c7a9b7712eb8cf",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/3b7aa6117668fca8.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1it9N3-x_TJkvB5mMLXVmADkSzQjjvQ0Q",
+      "title": ".png",
+      "sha256": "32209d99df83d3a3ead407ec1ee9a171e129fa344e0feab6fa3511202c4fb4e0",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/32209d99df83d3a3.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1in1iofJwkw-DfF8rWA0lpNgqjGdRCAi_",
+      "title": ".png",
+      "sha256": "5bb237169b3ab28a23072ccf7e4d76ba0017c24966f12804957706d0cc4819ac",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/5bb237169b3ab28a.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1whUe2ifQr5REaVmtBqU6v0OnQ-MQl76l",
+      "title": ".png",
+      "sha256": "493b43ba39f07f0d861e05556374a2847c03f4c77963cc6e8c16e37e529ea3c2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/493b43ba39f07f0d.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1wIdQ9HqdggtX-YU7ltLnQ0tIYL2IlE0D",
+      "title": ".png",
+      "sha256": "829cd867d352709ef2854aba98c8bf9773bb33845db21890cb86ebaec525da6d",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/829cd867d352709e.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1buCHeLpwrcsMhnvgXi1doemV6AZWzOm5",
+      "title": "Untitled design - 8.png",
+      "sha256": "820b1f07a2f14c7bcf70c98c5da084b7cc66f140e957b51e76a379a4890b322d",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/820b1f07a2f14c7b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1q36qdwocSYu7t7N-GfnM6rvw-xXOEeW7",
+      "title": "Untitled design - 9.png",
+      "sha256": "20d93d5b29a083d2bce74d593371ff8d8f44705e7c4d3019582390fdf0cc09b7",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/20d93d5b29a083d2.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1oVpE7JHIXl20J3iX7e4k7B9_ZXIMCo-L",
+      "title": "Untitled design - 6.png",
+      "sha256": "27831fc0761d97bf9fa68ddd28019ae14a3bda2f1763f41e8040fe08fa71b15d",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/27831fc0761d97bf.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-930",
+      "driveFileId": "1n-i5w8QjgHCrcYxbPKKm_qUahUqsjP5E",
+      "title": "Untitled design - 7.png",
+      "sha256": "d9b855497fa14c32589ee19a9004d25fa8093638293f0105f1be63e8714b1162",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-930/d9b855497fa14c32.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1hL4LETGG8sh3mb2xMngIbsPMBSR_BlAN",
+      "title": "1 (1).png",
+      "sha256": "08e5ca47be22cded62f9224134a3957195d9e294ef84de6f8a0e9e7813e2c6f2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/08e5ca47be22cded.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1HBKfZpJQmnvFZpz8LXUnadk01Xr3TcIa",
+      "title": "2.png",
+      "sha256": "8d49a3a70fa681eebbca7d15de455e47fb9d176fbc0eab1d11de6ad52e2578ac",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/8d49a3a70fa681ee.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1m5zr-aL33NoZsRQ2FxBVWVo2hgMIBtCd",
+      "title": "3.png",
+      "sha256": "6ea0a0ac7fe082e2c993663cd945f1c388f0c1cae05d9bb61229ee7fac7124bb",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/6ea0a0ac7fe082e2.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1DaHld8nhSD8eBkptujAYrpK_e77WkpO_",
+      "title": "1.png",
+      "sha256": "d0b3926b352d5db791bea7403afa714341290fb66d4e1d85278d06a40be39ff7",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/d0b3926b352d5db7.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1cKLGBFK6CmeUgxFF35vpfCF6U6XWhuRK",
+      "title": "7.png",
+      "sha256": "251320ed0c7dc9b0ce5bb944ba0f198dfc29605423cd26b42c2b613f500546e9",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/251320ed0c7dc9b0.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1sV5EF33HCTnJiq-WAK8u8bW7c4fOWpak",
+      "title": "morii_digicam.png",
+      "sha256": "b1a80f4f8c52d344e9c3a580fcfd94d8a1fa33d4e2d02e2f893887a2f4086782",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/b1a80f4f8c52d344.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1Q78un01kZJV7sRVG2UNdoh_S7-IGEAUb",
+      "title": "morii_digicam.png",
+      "sha256": "6bd8cb30b0611ea1d534720725fb965637e510ad63ba217652fcb895c80b205a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/6bd8cb30b0611ea1.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1fepqPS84SPIfdVc2fBYC6E2WFK3azeCc",
+      "title": "morii_digicam.png",
+      "sha256": "3a4d2a43114af4c9e351d3ab55dc13a6a25c04b4e7b75705a37e0918f15a8efb",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/3a4d2a43114af4c9.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1mu4tssh5oYJAezBf9EXHxm2IboYbrMnw",
+      "title": "morii_digicam.png",
+      "sha256": "89ebf1e4078452b9d9198350511ccc14a674fd8d427e6850b2ef7b98719fc06c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/89ebf1e4078452b9.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1WL079D2aX6stB6OWbnhf3z_XtEGJ5WRF",
+      "title": "Untitled design - 5.png",
+      "sha256": "604938831871edd34699e807fb66e9ea38632de9a876b889515970467ccc0f04",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/604938831871edd3.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1p-lmXOWb7ngN2t6F-nKOVr24oZSV3JuN",
+      "title": "Untitled design - 8.png",
+      "sha256": "076a5071edf03cb90943ca3a973a4338916a0ff10e8386b1e4a5f07de9e6ba9b",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/076a5071edf03cb9.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1qxfw36ng_RpZcEWRLquf9bogecNWBpuo",
+      "title": "Untitled design - 9.png",
+      "sha256": "a8bdd21b9caec1d7af05d10a261e5bed603cd1fdadfcc4d3271d8841f77c743a",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/a8bdd21b9caec1d7.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1iidS10tCJJGHCF0rqSbowSf-Yk9XH-Vp",
+      "title": "Untitled design - 7.png",
+      "sha256": "3583dd8ef7ada9705fa64d6a22d01da7625a27b2a837406ad22ecd45a87cf4c6",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/3583dd8ef7ada970.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-31s",
+      "driveFileId": "1dulrKa_lxO2s-JZ0U3WVvnOLHgcc-zRW",
+      "title": "Untitled design - 4.png",
+      "sha256": "012c3738c51adef22424a11d8aa31fdf4ca4b703f2b2df897985a18aef48f010",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-31s/012c3738c51adef2.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1jwkf0rtiIX3xtiVDD5ydeD0c9dQozxJ-",
+      "title": "1.png",
+      "sha256": "794795f7cdae29ad5ec8bff0845b98aef2b280766eb44635b8ff3de1008b3fb2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/794795f7cdae29ad.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1TYac8vRHgFSloV71WBeyrQNXPZB5CEG6",
+      "title": "2.png",
+      "sha256": "288ca76186915b4d08fa30d39a9033da4a3682c4fc8e1ac5073bfd02cfc296e9",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/288ca76186915b4d.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1mWyHamBAbkWI61bIWMOpjJv6De5jmSRl",
+      "title": "3.png",
+      "sha256": "a8fabc4123eace95717e89763e8cfa2e384071465dc89a40ac20c9b2ace13e6e",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/a8fabc4123eace95.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "13naW2rU-JT_oVIBJ0TmeQ1Z9kdIIKL9M",
+      "title": "morii_digicam-45.png",
+      "sha256": "e5fbcb78d219f81f25f4cd81a48d28e3126d2485db36f9abd061d8c72c60b176",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/e5fbcb78d219f81f.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1f8uUZflqoaiItKnMWy7fgnScKDGYdCPY",
+      "title": "morii_digicam-43.png",
+      "sha256": "e13ccbaa0eb8a1cd305058a20b7adf131c8ebc3d81b3c00bbb26d22fd2f8c22c",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/e13ccbaa0eb8a1cd.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1pzNyUxnWSOGU7X3ej1SaWivAVknuLOBd",
+      "title": "morii_digicam-42.png",
+      "sha256": "63697c177916faa327b12db25f7ea60ba096e8ce76eb3ecea4665b8a36c6dd3e",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/63697c177916faa3.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1Yw3b6dyPNKClIlxXk5ilroD20ED8hyTn",
+      "title": "morii_digicam-41.png",
+      "sha256": "00c4a993fb72191629830ee45c0e5274c8ff97eb82317ce58c1c2eb410743c25",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/00c4a993fb721916.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "14VfP4D3Y0n0pCNUAJGqIR1pJVbZofog7",
+      "title": "morii_digicam.png",
+      "sha256": "9811b8dc0a1effaa7de03fb7618daf209629acec0661fc6d6697bd7e534bbfe2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/9811b8dc0a1effaa.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1Z4e7oS30L2_gJ_g3Co9OvEm22JTNT9CH",
+      "title": ".png",
+      "sha256": "aa20acf87a7ac99c784b90a6ffb369169bcb73a63caa4d10bcd1efaa2c6d60e2",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/aa20acf87a7ac99c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1M7CD_8r8g1_VNx3T7B5NfUBHnMpoR35I",
+      "title": ".png",
+      "sha256": "3f690d0c049121b7e583227bf5c209a375a028daad1c48522496b78c74da5c5d",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/3f690d0c049121b7.webp",
+      "originalSize": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1Jo8u0QiJEbKjGmi4FA1jSA86fJFRxLcg",
+      "title": "Untitled design - 10.png",
+      "sha256": "7ab3803b342ba3cd5e880d76f6602466f5d7f09508fe5c7f9794739397c0b727",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/7ab3803b342ba3cd.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1ekZt9zwJGtX-jFCQ6F2ZjVrorXqNf3j8",
+      "title": "Untitled design - 6.png",
+      "sha256": "e95fb5c7e29f2d572db95611bbffde4c3278de549d9ac8c27797b3681126b4b8",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/e95fb5c7e29f2d57.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1T-r1AbxFQkzI9SCtDMsmJhJyudTYaYIk",
+      "title": "Untitled design - 5.png",
+      "sha256": "0e652870496d2b72508ca92a58666b57682efea0917d80e59f9889fcdfa68770",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/0e652870496d2b72.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1sm2y4nyv5A__9Z5bFmU7g1DbOD8r7suh",
+      "title": "Untitled design.png",
+      "sha256": "b2b11583f509f72fb03839276a5e7ec856bd79f0e4394eaf97dbe17978995acd",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/b2b11583f509f72f.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "1rCvSFLhT9F2ibhhiLrosZ_OiVwl8OAkM",
+      "title": "Untitled design - 28.png",
+      "sha256": "48b4a00b9bf6ea5bc6c4b89574c502b9a40af4a585d0f68face132797145d1ef",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/48b4a00b9bf6ea5b.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixy-510",
+      "driveFileId": "10GJJdb-M6tds1KE8cH_ZfdqheZYOAqco",
+      "title": "Untitled design - 29.png",
+      "sha256": "693f014a779ee5db55d75d56368a03a38db0e30b1a093c62a07a479c00fc915f",
+      "category": "samples",
+      "asset": "assets/gallery/ixy-510/693f014a779ee5db.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1xs6QWaC0nVXM8s2YrpquAH1Kdg_6YgT8",
+      "title": "morii_digicam-61.png",
+      "sha256": "d08056e779525602ec7517baa601737a5ae5f409699618d2f1a96e824c062434",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/d08056e779525602.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1Dm3nKJTGkDgiv1PYBr4qC7EKy6GeU5MB",
+      "title": "morii_digicam-60.png",
+      "sha256": "ce35187339fc14d71823f1eccecc596e7ac7e9c9eeee11547d3665fb79aa3178",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/ce35187339fc14d7.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1f0i1jToq_FS_-4-1ggDYCeg3AAanpCts",
+      "title": "morii_digicam-59.png",
+      "sha256": "41a2528b9917cf638af2dbbfb15c07dfd31b2c0b497aa3bced9289a08b8a95b7",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/41a2528b9917cf63.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1rI4am_xvvUqy-somtuG_iNkzISgeJ8Wa",
+      "title": "morii_digicam-58.png",
+      "sha256": "4e668d83b1e78c2bd91f09fce043d612f39d16ca77f1c10c74fd518c7d89352f",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/4e668d83b1e78c2b.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1cAnXaBjtvzCqAE6BBWk8qAJmJAxNwie8",
+      "title": "morii_digicam-57.png",
+      "sha256": "47607d0f60dab7662c634b612d62ed16795ae8f1f841d2e1a6a7e10eee13b135",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/47607d0f60dab766.webp",
+      "originalSize": [
+        3264,
+        2448
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1XRat8BOt1Jx20vbTDQcXkzY_QJ_lVQ7t",
+      "title": "morii_digicam.png",
+      "sha256": "8e2741902a1126d601ed61efe6f29e999cc5b40b8c9b99893c4e236e0cafe74e",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/8e2741902a1126d6.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "13Lh14l7WhJhhlKW5Ohy5hEHfW5CoIsIS",
+      "title": "morii_digicam.png",
+      "sha256": "d36b1db6b382dd19c1f7a23bc9909eedb30a89da2456b3241f1a7424dbf35be8",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/d36b1db6b382dd19.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1eWCICgfq0PXX8GGSM5Q7YQ_HeNUzBWKr",
+      "title": ".png",
+      "sha256": "ad1fa65f5cda69c8de8fbb22596338bce86a8fa5f7092b302b25f0895935d69f",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/ad1fa65f5cda69c8.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1nRrxHNWD1P-0qZPSq4ysx9p3K02D823X",
+      "title": ".png",
+      "sha256": "7c56f39de3f6ff27f0b9157e274babc7e9a6133a4b8f9036e6738bf347e32515",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/7c56f39de3f6ff27.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1s75onjrrSRXigBJJ-OrOs7-F21kP0Nmg",
+      "title": ".png",
+      "sha256": "b6003c13b919e0ee665e066b7b18e6ac084f27abb5f9e167c4b0d041d14cb4af",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/b6003c13b919e0ee.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1IAqtTpICIE4_2JAcewowPwegFFKFBH1r",
+      "title": ".png",
+      "sha256": "b7b3747e9a841603a22c09e79368e2c1cb636bdfc432e35bf139743d1ba36602",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/b7b3747e9a841603.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1UrTsR9b-ZNeFDjNzyumDYdLU4iw0L36O",
+      "title": ".png",
+      "sha256": "4f178f5b195f93a0db7302520989354413caa040c78dee5fe18ef648761ddd42",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/4f178f5b195f93a0.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "15BVWktXwzROwIiDaNraAHLDKPFonIkXb",
+      "title": ".png",
+      "sha256": "f536a1568fe272fa21be7c97f4317245d341d684c5be61d088d1b77dfc7b5dcf",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/f536a1568fe272fa.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1WZkcQ_6E4HY8DPYFvj-pNWEnAwYyVsdG",
+      "title": "Untitled design - 7.png",
+      "sha256": "e002b2c8106ec8053dd7745fa0500beb7c25b125ef7cba5a7f2c4814b3fd7f03",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/e002b2c8106ec805.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1QErSRoeW9NJ3AOZeeC3heIBGWlthwFhQ",
+      "title": "Untitled design - 8.png",
+      "sha256": "1d2bf519df64f6ec47c16b05af63ce2f10550b7001a31930ba1541c4a83f0c23",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/1d2bf519df64f6ec.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "194BjJvv1ThuTRUPNRdibF8kMt0gqM1AC",
+      "title": "Untitled design - 6.png",
+      "sha256": "3eaf85f71dbaef7739a11132c605ee96783d6bfd0bfb9c93b491ba8917659bd7",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/3eaf85f71dbaef77.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "19lusSg3QtkuzJ6GkcCCkAEhk15C8JNAN",
+      "title": "Untitled design - 4.png",
+      "sha256": "418cec0f37d552ff705c33ca87a68b1513b29243590898e9da59bef52ee0bc5b",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/418cec0f37d552ff.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1PkoyicwMGCU9Mb0mxKOj068vmaX4Uz_l",
+      "title": "Untitled design - 2.png",
+      "sha256": "877bfcd22fa83d0c7a06a4f300d5324869597faf6151f57ed6e2565325dcc1ae",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/877bfcd22fa83d0c.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1btp0INrGUKqczTQzn34U8TSZ8ZbPx25Z",
+      "title": "Untitled design - 5.png",
+      "sha256": "2df3925b15a68ce860ee21ee4fc4f599dfd8c51ad636e71d13646a9c01ea02c0",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/2df3925b15a68ce8.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1Kur8woiI2L87ohNSE7lfVtqD-IBp6yuG",
+      "title": "Untitled design - 3.png",
+      "sha256": "9ba88818e01d4e2dc159ab2342224157326287d6b83bc49fa53fa20b20085e7f",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/9ba88818e01d4e2d.webp",
+      "originalSize": [
+        2448,
+        3264
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1ovuAItA13cmKUpKoc7RGtG3eIWAq4DHb",
+      "title": "IMG_0452.PNG",
+      "sha256": "8d2e043a404df662e757f8d477b207a1bbc248cae1684dbd3ea589d18c0fa18b",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/8d2e043a404df662.webp",
+      "originalSize": [
+        1108,
+        1477
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1o8cqVPgQaaiEbcheiv7uHLvgO_Ms-cMo",
+      "title": "IMG_9945.PNG",
+      "sha256": "5b7ce1e1e50a5e3974e947631389b85df1b78277a423c7159321d68489fe80ae",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/5b7ce1e1e50a5e39.webp",
+      "originalSize": [
+        910,
+        1617
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1aV0h5JCpxusgcXbbv2BJLW_wepnNZaMY",
+      "title": "IMG_9221.PNG",
+      "sha256": "970658ec37093ce7a80ba7c1e7cefdaea7d084b242c201c228daf4afc13bebfa",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/970658ec37093ce7.webp",
+      "originalSize": [
+        1108,
+        1477
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1mhZXov51hL0s3nLJ6nZFvhcOJv40N2sU",
+      "title": "IMG_9220.PNG",
+      "sha256": "c239207e08e4d1a0c16f6f3ad8b1fb4bf520dd60c9c4639321497004186cc250",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/c239207e08e4d1a0.webp",
+      "originalSize": [
+        1108,
+        1477
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1-0raKEK3aaI-tYN7OcMjZBiRYz4yKq13",
+      "title": "IMG_9219.PNG",
+      "sha256": "d5ab79699a104866c3ae35a5c99ee0426f48695e52f076e88625e5b91b0bef7a",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/d5ab79699a104866.webp",
+      "originalSize": [
+        1108,
+        1477
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1_ByzgWsNsZMwF4WDL6kaZHEV3wo-BhIW",
+      "title": "IMG_9200.PNG",
+      "sha256": "4a2c253ddcb2ff51c7e8b60766305ac4fe91a88d9d18caa0e42403bbb7bd162b",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/4a2c253ddcb2ff51.webp",
+      "originalSize": [
+        1108,
+        1477
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "17xYocDhgN5UaUrf_3z7znC1PdOyG0Mp9",
+      "title": "IMG_8633.PNG",
+      "sha256": "898e8e550a063d75ad67905e36a8ff449937f6785805878d3221b17d04ad9edf",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/898e8e550a063d75.webp",
+      "originalSize": [
+        1477,
+        1108
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1byE5zcgxyHTXxYZJTrtQHh4NZs0AuWn6",
+      "title": "line_oa_chat_250118_131036.jpg",
+      "sha256": "6964b9c0ced8fcfa9a3c59e4e5f0b62787278a950cf708e33c361ce230f59259",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/6964b9c0ced8fcfa.webp",
+      "originalSize": [
+        1477,
+        1108
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "12aiu65JWsuxE1bSDQNbPBNTa5BJ76dAY",
+      "title": "IMG_0425.JPG",
+      "sha256": "e759fb53aaed547ce636366f8a58ce501b73216b37313bfdafcc8b145b58ab58",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/e759fb53aaed547c.webp",
+      "originalSize": [
+        1477,
+        1108
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1MSas4cVSCpEM4HiwqXbX3JkDTYNEswAp",
+      "title": "IMG_0433.JPG",
+      "sha256": "30ae126c4b02cbf8e4e7598f35b34e1459dbc273366b026aa464494ac856918e",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/30ae126c4b02cbf8.webp",
+      "originalSize": [
+        1108,
+        1477
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1urHPpAtrHcUDLkhp4zGvwvqKIwmqkQdH",
+      "title": "IMG_0431.JPG",
+      "sha256": "4f4e594e980ed8a812dac1d95d0d73fcdf53a099c549946a1f84008b1358534d",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/4f4e594e980ed8a8.webp",
+      "originalSize": [
+        1477,
+        1108
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "1O64npUOfT6Y85UZY4V57kuWUmv9oG7tp",
+      "title": "IMG_0430.JPG",
+      "sha256": "9f90eca1bbdf335289ef3ff88ad2a8db69629c82bc8e15489a14dc78b75498fa",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/9f90eca1bbdf3352.webp",
+      "originalSize": [
+        1108,
+        1477
+      ]
+    },
+    {
+      "model": "ixus-95",
+      "driveFileId": "14nK0C-jKRjWxidtJ2wx9cbkNMemwKpGW",
+      "title": "IMG_0257.JPG",
+      "sha256": "ef730417f48aab14fc4c8e608c972a1d13b0df9b6e8521953333114fef86a391",
+      "category": "samples",
+      "asset": "assets/gallery/ixus-95/ef730417f48aab14.webp",
+      "originalSize": [
+        3648,
+        2736
+      ]
+    }
+  ]
+}

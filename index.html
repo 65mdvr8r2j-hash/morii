@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#faf8f3">
+  <title>morii — เช่ากล้อง เก็บวันดี ๆ ไว้ด้วยกัน</title>
+  <meta name="description" content="เลือกกล้องดิจิตอลกับ morii ดูภาพจากกล้องและรีวิว เช็คคิวผ่าน Canva และติดต่อ LINE เพื่อเช่าหรือซื้อกล้อง">
+  <meta property="og:title" content="morii — a camera for your little moments">
+  <meta property="og:description" content="เลือกกล้องตัวโปรด แล้วออกไปเก็บความทรงจำด้วยกัน">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="content.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <svg xmlns="http://www.w3.org/2000/svg" class="svg-defs" aria-hidden="true"><defs>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M7 17 17 7M6 7h11v11"/></symbol>
+    <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.7" cy="10.7" r="6.7"/><path d="m16 16 5 5"/></symbol>
+    <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M7 3v5m10-5v5M3 11h18m-13 4h1m6 0h1m-8 3h1"/></symbol>
+    <symbol id="i-camera" viewBox="0 0 24 24"><path d="M8 6 9.5 3h5L16 6h4a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4Z"/><circle cx="12" cy="13" r="4"/><path d="M18 9h.01"/></symbol>
+    <symbol id="i-image" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="8" cy="8" r="1.5"/><path d="m3 17 5-5 4 4 4-6 5 7"/></symbol>
+    <symbol id="i-heart" viewBox="0 0 24 24"><path d="M20.8 4.6a5.4 5.4 0 0 0-7.7 0L12 5.8l-1.1-1.2a5.4 5.4 0 0 0-7.7 7.7L12 21l8.8-8.7a5.4 5.4 0 0 0 0-7.7Z"/></symbol>
+    <symbol id="i-line" viewBox="0 0 24 24"><path d="M21 10.2C21 5.7 17 3 12 3S3 5.7 3 10.2c0 4 3 6.8 7.4 7.3l-.2 3c3.8-1.6 10.8-5.7 10.8-10.3Z"/><path d="M7 8v4h2m2-4v4m2 0V8l3 4V8" stroke-width="1.2"/></symbol>
+    <symbol id="i-instagram" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5h.01" stroke-width="3"/></symbol>
+    <symbol id="i-tiktok" viewBox="0 0 24 24"><path d="M14 3v12.5a4.5 4.5 0 1 1-4-4.5M14 3c.8 3.2 3 5 6 5" stroke-width="2.5"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="m4 3 12 18h4L8 3H4Zm16 0-7 8M4 21l7-8"/></symbol>
+    <symbol id="i-sparkle" viewBox="0 0 32 32"><path d="M16 2c0 9-5 14-14 14 9 0 14 5 14 14 0-9 5-14 14-14C21 16 16 11 16 2Z"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 5 5L20 7"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="13" height="13" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></symbol>
+  </defs></svg>
+  <a class="skip-link" href="#cameras">ข้ามไปยังรายการกล้อง</a>
+  <div class="announcement"><span>little camera, lovely memories</span><span class="announcement-star">✳</span><span>เก็บวันดี ๆ ไปกับ morii</span></div>
+  <header class="header">
+    <div class="container nav">
+      <a class="brand" href="#" aria-label="morii หน้าแรก">morii<span class="brand-dot"></span><span class="brand-descriptor">DIGICAM RENTAL</span></a>
+      <nav aria-label="เมนูหลัก"><a href="#cameras">กล้องของเรา</a><a href="#how-to">เช่ายังไง?</a><a href="#contact">ติดต่อร้าน</a></nav>
+      <a class="button button-outline nav-queue" data-queue href="https://canva.link/9b9kzfxh57pmkvw" target="_blank" rel="noopener noreferrer"><svg class="icon"><use href="#i-calendar"/></svg><span>เช็คคิวกล้อง</span><svg class="icon small"><use href="#i-external"/></svg></a>
+    </div>
+  </header>
+  <main>
+    <section class="hero container" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="tiny-dot"></span> YOUR NEXT MEMORY STARTS HERE</p>
+        <h1 id="hero-title">กล้องตัวเล็ก<br>ความทรงจำ<span class="title-circle">ใหญ่ ๆ<svg viewBox="0 0 210 76" aria-hidden="true"><path d="M190 11C125-5 5 1 9 39c4 35 185 40 193 3 3-14-20-23-50-25"/></svg></span></h1>
+        <p class="hero-description">เลือกกล้องตัวโปรด แล้วออกไปเก็บวันดี ๆ<br class="desktop-br">ให้ morii เป็นส่วนเล็ก ๆ ในความทรงจำของเธอ</p>
+        <div class="hero-actions"><a class="button button-primary" href="#cameras">เลือกกล้องกันเลย<svg class="icon"><use href="#i-arrow"/></svg></a><a class="text-link" href="#how-to">เช่าครั้งแรก? ดูวิธีเช่า<svg class="icon small"><use href="#i-external"/></svg></a></div>
+        <div class="hero-footnote"><svg class="icon small"><use href="#i-heart"/></svg><span>แค่เลือกกล้อง เช็คคิว แล้วทักมาหาเรา</span></div>
+      </div>
+      <div class="hero-art" aria-label="ภาพประกอบกล้องดิจิตอล Canon จากผู้ผลิต">
+        <div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div>
+        <span class="handwritten art-note">a little camera,<br>a lot of memories.</span>
+        <svg class="art-arrow" viewBox="0 0 110 100" aria-hidden="true"><path d="M6 5c90-8 30 105 87 65m-23 0 25-2-9 22"/></svg>
+        <div class="film-note"><span>morii moments</span><svg class="icon"><use href="#i-heart"/></svg><span>EST. WITH LOVE</span></div>
+        <div class="polaroid polaroid-back"><div class="polaroid-photo back-photo"><img src="assets/ixy-920.jpg" alt="Canon IXY 920 IS ภาพตัวอย่างรุ่นจากผู้ผลิต" width="400" height="300" fetchpriority="high"></div><div class="polaroid-caption">little things, big feelings</div></div>
+        <div class="polaroid polaroid-front"><span class="tape"></span><div class="polaroid-photo front-photo"><img src="assets/ixy-930.jpg" alt="Canon IXY 930 IS ภาพตัวอย่างรุ่นจากผู้ผลิต" width="400" height="300" fetchpriority="high"><span class="photo-stamp">PICK YOUR<br>FAVORITE ♡</span></div><div class="polaroid-caption">see you through my lens <span>♡</span></div></div>
+        <svg class="icon art-sparkle sparkle-one"><use href="#i-sparkle"/></svg><svg class="icon art-sparkle sparkle-two"><use href="#i-sparkle"/></svg>
+        <div class="art-sticker"><svg class="icon"><use href="#i-camera"/></svg><span>let's make<br>memories!</span></div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact-section container" aria-labelledby="contact-title">
+      <div class="contact-heading"><h2 id="contact-title">ทักหา morii ได้ที่นี่</h2><p>อยากเช่า อยากซื้อ หรือแวะมาดูรูปก็ได้นะ ♡</p></div>
+      <div class="contacts">
+        <a class="contact-card contact-rent" data-contact="rentLine" role="button" tabindex="0"><span class="social-icon line-icon"><svg class="icon"><use href="#i-line"/></svg></span><span><strong>LINE เช่ากล้อง</strong><small>สอบถามคิว / จองกล้อง</small></span><svg class="icon contact-arrow"><use href="#i-external"/></svg></a>
+        <a class="contact-card" data-contact="buyLine" role="button" tabindex="0"><span class="social-icon line-icon"><svg class="icon"><use href="#i-line"/></svg></span><span><strong>LINE ซื้อกล้อง</strong><small>หากล้องตัวโปรดกลับบ้าน</small></span><svg class="icon contact-arrow"><use href="#i-external"/></svg></a>
+        <a class="contact-card" data-contact="tiktok" role="button" tabindex="0"><span class="social-icon"><svg class="icon"><use href="#i-tiktok"/></svg></span><span><strong>TikTok</strong><small>ดูคลิปจากร้าน</small></span><svg class="icon contact-arrow"><use href="#i-external"/></svg></a>
+        <a class="contact-card" data-contact="instagram" role="button" tabindex="0"><span class="social-icon"><svg class="icon"><use href="#i-instagram"/></svg></span><span><strong>Instagram</strong><small>รูปและเรื่องราวของ morii</small></span><svg class="icon contact-arrow"><use href="#i-external"/></svg></a>
+        <a class="contact-card" data-contact="x" role="button" tabindex="0"><span class="social-icon"><svg class="icon"><use href="#i-x"/></svg></span><span><strong>X</strong><small>แวะมาอัปเดตข่าวกัน</small></span><svg class="icon contact-arrow"><use href="#i-external"/></svg></a>
+      </div>
+      <p class="draft-note" id="draft-note" hidden><span>PREVIEW</span> เวอร์ชันตัวอย่าง · รอเพิ่มลิงก์ติดต่อและรูปจากกล้องแยกตามรุ่น</p>
+    </section>
+
+    <section id="cameras" class="catalog-section container" aria-labelledby="catalog-title">
+      <div class="section-heading"><div><p class="eyebrow">FIND YOUR LITTLE COMPANION</p><h2 id="catalog-title">กล้องตัวไหน…<span class="serif-accent">ใช่เธอ?</span></h2><p class="section-description">เลือกดูรุ่นที่ชอบ แล้วกดดูภาพและรายละเอียดได้เลย</p></div><div class="catalog-total"><svg class="icon"><use href="#i-camera"/></svg><span id="catalog-total">กล้องของ morii</span></div></div>
+      <div class="catalog-toolbar"><div class="filters" role="group" aria-label="กรองซีรีส์กล้อง"><button class="filter active" data-filter="all" aria-pressed="true">กล้องทั้งหมด</button><button class="filter" data-filter="IXY" aria-pressed="false">IXY series</button><button class="filter" data-filter="IXUS" aria-pressed="false">IXUS series</button></div><label class="search-field"><svg class="icon"><use href="#i-search"/></svg><input id="camera-search" type="search" placeholder="ค้นหารุ่นกล้อง…" aria-label="ค้นหารุ่นกล้อง" autocomplete="off"></label></div>
+      <div id="camera-grid" class="camera-grid"></div>
+      <div id="no-results" class="no-results" hidden><svg class="icon"><use href="#i-search"/></svg><h3>ยังไม่เจอรุ่นที่ค้นหา</h3><p>ลองพิมพ์สั้น ๆ เช่น 920 หรือ IXY</p><button id="reset-search" class="button button-outline">ดูกล้องทั้งหมด</button></div>
+      <p id="search-status" class="sr-only" role="status" aria-live="polite"></p>
+      <p class="catalog-note">ภาพตัวกล้องจากผู้ผลิตใช้ประกอบการเลือกรุ่น · สีและสภาพกล้องจริงสอบถามร้านก่อนเช่า</p>
+    </section>
+
+    <section class="queue-section container" aria-labelledby="queue-title"><div class="queue-inner"><div class="queue-doodle" aria-hidden="true"><svg class="icon"><use href="#i-calendar"/></svg><span>save the date ♡</span></div><div class="queue-copy"><p class="eyebrow">GOT A DATE IN MIND?</p><h2 id="queue-title">มีวันในใจแล้ว…เช็คคิวกัน</h2><p>ดูตารางคิวของร้านใน Canva แล้วทัก LINE<br class="desktop-br">เพื่อยืนยันวันเช่าและรุ่นกล้องกับ morii อีกครั้ง</p></div><div class="queue-action"><a class="button button-primary" data-queue href="https://canva.link/9b9kzfxh57pmkvw" target="_blank" rel="noopener noreferrer">เช็คคิวกล้อง<svg class="icon"><use href="#i-external"/></svg></a><span>เปิดตาราง Canva สำหรับดู</span></div></div></section>
+
+    <section id="how-to" class="how-section container" aria-labelledby="how-title"><div class="section-heading"><div><p class="eyebrow">A FEW LITTLE STEPS</p><h2 id="how-title">เช่าง่าย ๆ แล้วไปถ่ายรูปกัน</h2></div><svg class="icon how-heart"><use href="#i-heart"/></svg></div><div class="steps"><article class="step"><span class="step-number">01</span><h3>เลือกกล้องที่ชอบ</h3><p>เปิดดูรุ่นกล้อง ภาพตัวอย่าง<br>และภาพรีวิวที่ร้านรวบรวมไว้</p></article><article class="step"><span class="step-number">02</span><h3>เช็ควันว่าง</h3><p>กดเช็คคิวกล้องเพื่อดูตาราง<br>แล้วเลือกช่วงวันที่ต้องการเช่า</p></article><article class="step"><span class="step-number">03</span><h3>ทัก LINE เพื่อจอง</h3><p>แจ้งรุ่นและวันที่กับร้าน<br>ยืนยันราคาและรายละเอียดก่อนเช่า</p></article></div></section>
+
+    <section class="album-section container"><div class="album-copy"><svg class="icon"><use href="#i-image"/></svg><div><p class="eyebrow">THROUGH THE MORII LENS</p><h2>อีกหลายโมเมนต์ ในอัลบั้มของร้าน</h2><p>แวะดูภาพในอัลบั้มรวมของ morii ระหว่างเลือกกล้องกันได้เลย</p></div></div><a class="button button-outline" id="shop-album" href="https://drive.google.com/drive/folders/1-9L6rcsXpkD9mD05FCnRoqm243i2zljJ" target="_blank" rel="noopener noreferrer">เปิดอัลบั้มร้าน<svg class="icon"><use href="#i-external"/></svg></a></section>
+  </main>
+  <footer class="footer"><div class="container footer-top"><div><a class="brand footer-brand" href="#">morii<span class="brand-dot"></span></a><p>for the moments you want to keep.</p></div><div class="footer-links"><a href="#cameras">เลือกกล้อง</a><a href="#contact">ติดต่อร้าน</a><a data-queue href="https://canva.link/9b9kzfxh57pmkvw" target="_blank" rel="noopener noreferrer">เช็คคิว<svg class="icon small"><use href="#i-external"/></svg></a></div><span class="footer-sign">with love, morii ♡</span></div><div class="container footer-bottom"><span>© <span id="year">2026</span> morii digicam</span><span>ภาพประกอบรุ่นกล้อง: <a href="https://global.canon/en/c-museum/" target="_blank" rel="noopener noreferrer">Canon Camera Museum</a></span></div></footer>
+  <a class="mobile-queue" data-queue href="https://canva.link/9b9kzfxh57pmkvw" target="_blank" rel="noopener noreferrer"><svg class="icon"><use href="#i-calendar"/></svg>เช็คคิวกล้อง<svg class="icon small"><use href="#i-external"/></svg></a>
+
+  <dialog id="camera-dialog" class="camera-dialog" aria-labelledby="detail-title"><div class="detail-top"><span class="eyebrow">MEET YOUR NEXT CAMERA</span><button type="button" class="icon-button" data-close="camera-dialog" aria-label="ปิดรายละเอียดกล้อง"><svg class="icon"><use href="#i-close"/></svg></button></div><div class="detail-layout"><div class="detail-visual"><div class="detail-product" id="detail-product"><img id="detail-image" alt="" width="500" height="370"><span class="detail-image-note">ภาพประกอบรุ่นจากผู้ผลิต</span></div><div class="gallery-section"><div class="gallery-tabs" role="tablist" aria-label="ดูภาพกล้อง"><button id="tab-samples" role="tab" aria-selected="true" aria-controls="gallery-panel" data-gallery="samples" class="gallery-tab active">ภาพจากกล้อง</button><button id="tab-reviews" role="tab" tabindex="-1" aria-selected="false" aria-controls="gallery-panel" data-gallery="reviews" class="gallery-tab">รีวิวลูกค้า</button></div><div id="gallery-panel" role="tabpanel" aria-labelledby="tab-samples" tabindex="0"></div></div></div><div class="detail-info"><p class="eyebrow" id="detail-family"></p><h2 id="detail-title"></h2><p class="detail-description" id="detail-note"></p><div class="detail-divider"></div><p class="detail-label">กล้องสำหรับเช่า</p><p class="detail-price">ทักมาสอบถามราคาได้เลย ♡</p><p class="detail-muted">แจ้งรุ่นกล้องและช่วงวันที่ต้องการเช่า<br>ให้ร้านช่วยเช็คคิวและสรุปค่าเช่าให้ค่ะ</p><a class="button button-primary full-width" id="detail-rent" data-contact="rentLine" role="button" tabindex="0"><svg class="icon"><use href="#i-line"/></svg>สนใจเช่ากล้องรุ่นนี้<svg class="icon small"><use href="#i-external"/></svg></a><a class="button button-outline full-width" data-queue href="https://canva.link/9b9kzfxh57pmkvw" target="_blank" rel="noopener noreferrer"><svg class="icon"><use href="#i-calendar"/></svg>เช็คคิวกล้องใน Canva<svg class="icon small"><use href="#i-external"/></svg></a><p class="queue-help">ดูคิวตามชื่อรุ่นในตาราง และยืนยันกับร้านอีกครั้งก่อนจอง</p><div class="booking-copy"><div><svg class="icon"><use href="#i-copy"/></svg><span>ไม่รู้จะทักว่าอะไร?</span></div><p id="booking-message"></p><button id="copy-booking" class="text-link" type="button">คัดลอกข้อความสอบถาม<svg class="icon small"><use href="#i-copy"/></svg></button></div><button type="button" id="share-camera" class="text-link share-camera">คัดลอกลิงก์กล้องรุ่นนี้<svg class="icon small"><use href="#i-external"/></svg></button></div></div></dialog>
+  <dialog id="notice-dialog" class="notice-dialog" aria-labelledby="notice-title"><button type="button" class="icon-button notice-close" data-close="notice-dialog" aria-label="ปิดข้อความ"><svg class="icon"><use href="#i-close"/></svg></button><div class="notice-icon"><svg class="icon"><use href="#i-line"/></svg></div><p class="eyebrow">A LITTLE UPDATE</p><h2 id="notice-title">ช่องทางนี้กำลังมา</h2><p id="notice-text"></p><button type="button" class="button button-primary" data-close="notice-dialog">เข้าใจแล้ว<svg class="icon"><use href="#i-check"/></svg></button></dialog>
+  <dialog id="lightbox" class="lightbox" aria-label="ภาพขยาย"><button type="button" class="icon-button lightbox-close" data-close="lightbox" aria-label="ปิดภาพขยาย"><svg class="icon"><use href="#i-close"/></svg></button><button type="button" class="icon-button lightbox-prev" id="photo-prev" aria-label="ภาพก่อนหน้า"><svg class="icon"><use href="#i-chevron"/></svg></button><figure><img id="lightbox-image" alt=""><figcaption id="lightbox-caption"></figcaption></figure><button type="button" class="icon-button lightbox-next" id="photo-next" aria-label="ภาพถัดไป"><svg class="icon"><use href="#i-chevron"/></svg></button><span id="lightbox-count"></span></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">เปิด JavaScript เพื่อดูรายการกล้อง หรือ <a href="https://canva.link/9b9kzfxh57pmkvw" target="_blank" rel="noopener noreferrer">เปิดตารางคิวใน Canva</a></p></noscript>
+</body>
+</html>
