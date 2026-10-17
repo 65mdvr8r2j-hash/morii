@@ -1,80 +1,72 @@
-# morii — ชุดโค้ดเว็บไซต์สำหรับโฮสต์เอง
+# morii — Vercel + Supabase
 
-ชุดนี้มีโค้ด HTML, CSS, JavaScript และรูปที่เว็บใช้งานครบ สามารถนำไปใช้กับโฮสต์เว็บไซต์แบบ static หรือโฮสต์ที่มี public_html ได้ ไม่ต้องใช้ ChatGPT hosting, Node.js, npm, ฐานข้อมูล หรือคำสั่ง build
+The Thai camera website now supports **Vercel hosting** and a **Supabase database**. The design, LINE booking flow, Canva queue, search, filters, galleries, and camera share links are preserved.
 
-## นำเว็บขึ้นออนไลน์
+Supabase stores shop links, camera descriptions, publication flags, and photo metadata. The initial import contains **9 cameras and 239 photos**. Vercel serves the existing image files; new images can also use public HTTPS URLs from Supabase Storage. Visitors can read published content. The owner edits content through Supabase Dashboard.
 
-1. แตกไฟล์ `morii-website-source.zip`
-2. อัปโหลด `index.html`, `styles.css`, `content.js`, `app.js` และโฟลเดอร์ `assets` ทั้งโฟลเดอร์ ไปยังโฟลเดอร์เว็บไซต์หลักของโฮสต์ เช่น `public_html` โดยให้ `index.html` อยู่ที่ระดับแรกของโฟลเดอร์นั้น
-3. ถ้าโฮสต์ถามการตั้งค่า: เลือกเว็บไซต์แบบ Static / HTML / Other, เว้น Build command ว่าง และเลือกโฟลเดอร์ที่มี `index.html` เป็น Publish / Output directory (ใช้ `.` เมื่อโค้ดอยู่ที่รากโปรเจกต์)
-4. เปิด URL ที่โฮสต์ให้มา ตรวจหน้าแรก รูปกล้อง และปุ่มเช็คคิว แล้วจึงเชื่อมโดเมนของร้านตามคู่มือของโฮสต์
+## Set up step by step
 
-ไฟล์ `README.md` และโฟลเดอร์ `docs` เป็นคู่มือ ไม่จำเป็นต้องอัปโหลดขึ้นเว็บไซต์ ใช้ HTTPS เพื่อให้การคัดลอกข้อความทำงานได้ตามปกติ หากเบราว์เซอร์ไม่อนุญาตให้คัดลอก เว็บจะแสดงข้อความให้เลือกคัดลอกเอง
+1. Create a project at [Supabase](https://supabase.com/dashboard).
+2. In **SQL Editor**, run [the schema](supabase/migrations/202610170001_catalog.sql) once, then [the initial data import](supabase/seed.sql).
+3. Open **Connect** to copy the project URL and **publishable key** (`sb_publishable_...`). Keys are also under **Settings → API Keys**. The website does not use a database password, secret key, or service-role key.
+4. Push this updated source folder to GitHub, including `package.json`, `package-lock.json`, `vercel.json`, `scripts/`, and `supabase/`. Do not upload just the old HTML files.
+5. In [Vercel](https://vercel.com/new), import the repository. Choose **Other** as the framework and the folder containing `package.json` as the root. `vercel.json` sets **Build Command: `npm run build`** and **Output Directory: `dist`**. Use Node.js 22.x or newer.
+6. Before deploying, add these environment variables to **Production** and **Preview**:
 
-เว็บใช้พาธรูปแบบสัมพันธ์กัน จึงวางที่โดเมนหลักหรือโฟลเดอร์ย่อยได้ ลิงก์หน้ากล้องใช้ `#camera=ixy-930` จึงไม่ต้องตั้งค่า rewrite สำหรับเส้นทางเว็บ
+   | Name | Value |
+   | --- | --- |
+   | `SUPABASE_URL` | `https://YOUR-PROJECT.supabase.co` |
+   | `SUPABASE_PUBLISHABLE_KEY` | Your `sb_publishable_...` key |
 
-## เปิดตรวจบนคอมพิวเตอร์
+7. Click **Deploy**. Open the resulting URL and test the catalog, camera details, galleries, LINE links, and Canva queue.
+8. Edit catalog rows in **Supabase → Table Editor**, save, and refresh the website. Catalog changes do not require redeployment; code and environment variable changes do.
 
-เปิด `index.html` ในเบราว์เซอร์เพื่อดูหน้าเว็บเบื้องต้นได้ แต่การคัดลอกลิงก์กล้องควรตรวจผ่าน URL ของเว็บไซต์จริง
+See [the full setup and troubleshooting guide](docs/VERCEL-SUPABASE-SETUP.md) for permission checks, photo uploads, custom domains, and local previews.
 
-ถ้ามี Python ติดตั้งอยู่ สามารถเปิดเทอร์มินัลในโฟลเดอร์นี้แล้วใช้:
+## Local development
 
-```sh
-python3 -m http.server 8080
+Install Node.js 22.x or newer, then run in PowerShell:
+
+```powershell
+npm ci
+Copy-Item .env.example .env.local
 ```
 
-จากนั้นเปิด `http://localhost:8080` (บางเครื่องใช้ `python` แทน `python3`)
+Edit `.env.local` with the two public Supabase values, then:
 
-## แต่ละไฟล์ใช้ทำอะไร
+```powershell
+npm test
+npm run build
+npm run preview
+```
 
-| ไฟล์ | หน้าที่ |
+Open `http://127.0.0.1:8080`. There are no third-party runtime dependencies.
+
+To preview the original bundled catalog without Supabase:
+
+```powershell
+npm run build:demo
+npm run preview
+```
+
+Opening the source `index.html` directly also uses the bundled catalog. Production builds require Supabase configuration and exclude `content.js`, SQL, guides, and environment files from the published directory. If the database is unavailable, visitors see a retry message and can still use the shop's contact links.
+
+## Files
+
+| File / folder | Purpose |
 | --- | --- |
-| `index.html` | โครงหน้าเว็บ ข้อความทั่วไป และลิงก์เช็คคิวสำรอง |
-| `styles.css` | สี ฟอนต์ ขนาด และการจัดหน้าสำหรับมือถือ/คอมพิวเตอร์ |
-| `content.js` | ข้อมูลกล้อง ลิงก์ติดต่อ ลิงก์อัลบั้ม ลิงก์คิว และรายการรูป |
-| `app.js` | ค้นหา/กรองกล้อง เปิดรายละเอียด แกลเลอรี ดูรูปขยาย และคัดลอกข้อความ |
-| `assets/` | รูปประกอบกล้องและไอคอน |
-| `assets/gallery/` | ภาพตัวอย่าง 239 ภาพ พร้อมภาพย่อ แยกโฟลเดอร์ตามรุ่น |
-| `docs/photo-sources.json` | ที่มาของภาพจาก Drive และการตัดภาพซ้ำ |
-| `docs/IMAGE-SOURCES.md` | แหล่งที่มาของภาพประกอบรุ่นกล้อง |
+| `index.html`, `styles.css`, `app.js` | Thai website layout, design, and interactions |
+| `data.js` | Loads published settings, cameras, and galleries from Supabase REST API |
+| `config.js` | Source-preview config; generated from public environment variables during builds |
+| `content.js` | Original catalog for demo mode and generating the initial import |
+| `assets/` | Camera pictures, sample images, thumbnails, and icons |
+| `scripts/build.mjs` | Validates config and builds the public `dist/` directory |
+| `vercel.json` | Build settings and response headers |
+| `supabase/migrations/` | Schema, grants, and Row Level Security policies |
+| `supabase/seed.sql` | Initial 9-camera / 239-photo import; repeat runs preserve existing rows |
+| `supabase/verify.sql` | Transactional check of publication rules and blocked visitor writes |
+| `docs/` | Setup guide and original image attribution |
 
-## แก้ไขข้อมูลและรูป
+After setup, edit Supabase tables for live catalog changes. `npm run seed:generate` regenerates the initial SQL from `content.js`; it does not update a live database or overwrite existing rows.
 
-ใช้โปรแกรมแก้ไขข้อความที่บันทึก UTF-8 เพื่อให้ภาษาไทยแสดงถูกต้อง
-
-- เปลี่ยน LINE เช่า/ซื้อ, TikTok, Instagram หรือ X: แก้ค่าใน `contacts` ของ `content.js`
-- เปลี่ยนอัลบั้มรวม: แก้ `albumUrl` ระดับบนของ `content.js` และลิงก์ของ `id="shop-album"` ใน `index.html`
-- เปลี่ยนคิว: แก้ `queue.url` ใน `content.js` และค้นหา/แทนที่ลิงก์คิวเดิมทุกตำแหน่งใน `index.html` เพื่อให้ลิงก์สำรองตรงกัน คง `linkType: "view"` ไว้
-- เปลี่ยนรูปตัวกล้อง: แก้ `image` ในรายการกล้องนั้น และใส่ไฟล์รูปไว้ใน `assets/`
-- เพิ่มภาพจากกล้อง: ใส่ไฟล์ใน `assets/gallery/<รหัสรุ่น>/` แล้วเพิ่มรายการใน `samples` ของกล้องรุ่นนั้น
-- เพิ่มภาพรีวิวลูกค้า: เพิ่มรายการรูปใน `reviews` ของกล้องรุ่นนั้น แท็บรีวิวจะปรากฏเมื่อมีรายการ
-- เปลี่ยนชื่อรุ่น/คำอธิบาย: แก้ `name` และ `note` ในรายการกล้อง อย่าเปลี่ยน `id` หากต้องการให้ลิงก์ที่เคยแชร์ยังใช้ได้
-
-ตัวอย่างรายการรูปหนึ่งภาพใน `samples` หรือ `reviews`:
-
-```js
-{
-  "src": "assets/gallery/ixy-930/new-photo.webp",
-  "thumbnail": "assets/gallery/ixy-930/new-photo-thumb.webp",
-  "alt": "ภาพจาก Canon IXY 930 IS ในแสงธรรมชาติ",
-  "caption": "แสงธรรมชาติ"
-}
-```
-
-คั่นรายการรูปแต่ละรายการด้วยเครื่องหมายจุลภาค หากไม่มีภาพย่อ ให้ใช้พาธเดียวกับ `src` ในช่อง `thumbnail` ได้ แนะนำใช้ชื่อไฟล์ภาษาอังกฤษ ตัวเลข และขีดกลาง เพื่อให้ย้ายโฮสต์ง่าย
-
-ภาพในชุดนี้นำเข้าจาก Drive เมื่อ 10 ตุลาคม 2026 และตัดไฟล์ซ้ำภายในรุ่นเดียวกันออก รวม 9 รุ่น 239 ภาพ ภาพขยายมีด้านยาวไม่เกิน 1600 พิกเซล ภาพย่อไม่เกิน 480 พิกเซล ไม่ใช่ไฟล์ต้นฉบับความละเอียดเต็มจาก Drive
-
-การเพิ่มรูปใน Drive จะไม่เพิ่มเข้าเว็บอัตโนมัติ ต้องอัปเดตไฟล์และอัปโหลดชุดที่แก้ไขขึ้นโฮสต์อีกครั้ง เว็บไม่มีหน้าแอดมินสำหรับอัปโหลดรูป และไม่มีระบบรับชำระเงิน การจองดำเนินการผ่าน LINE ของร้าน
-
-## ลิงก์เช็คคิวและบริการภายนอก
-
-ลิงก์เช็คคิวที่ใส่ไว้คือ https://canva.link/9b9kzfxh57pmkvw ตามที่เจ้าของร้านส่งมา ทุกปุ่มเปิดลิงก์นี้ในแท็บใหม่ เว็บรองรับ HTTPS บน `canva.com` และ `canva.link`
-
-สิทธิ์ดูหรือแก้ไขตารางคิวขึ้นอยู่กับการแชร์ใน Canva โค้ดเว็บไซต์ไม่ได้เปลี่ยนสิทธิ์เหล่านั้น ควรทดสอบลิงก์ในหน้าต่างที่ไม่ได้ล็อกอิน Canva เมื่อเปลี่ยนการแชร์หรือลิงก์คิว
-
-รูปในเว็บมาจากไฟล์ `assets` ที่รวมมาให้ ฟอนต์เรียกจาก Google Fonts; หากโหลดไม่ได้ เว็บมีฟอนต์สำรอง ส่วนปุ่ม LINE, TikTok, Instagram, X, Drive และ Canva ต้องใช้อินเทอร์เน็ตตามปกติ
-
-ข้อมูลโดเมน ChatGPT เดิมถูกนำออกจาก metadata ของชุดนี้แล้ว เมื่อได้โดเมนใหม่ สามารถเพิ่ม `<meta property="og:url" content="https://โดเมนของร้าน">` ใน `<head>` ของ `index.html` ได้
-
-หลังแก้ไข แนะนำตรวจหน้าแรกบนมือถือและคอมพิวเตอร์ เปิดรายละเอียดกล้อง ดูรูปขยาย และกดลิงก์ติดต่อ/เช็คคิวจาก URL ใหม่ของร้าน
+This change does not add customer accounts, a website admin panel, online booking records, or payments. Bookings remain through LINE and availability remains in Canva. Database tables hold public marketing content only.

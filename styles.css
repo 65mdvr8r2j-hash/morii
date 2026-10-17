@@ -6,3 +6,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.hero-art:hover .polaroid-back{transform:rotate(-12deg)}.hero-art:hover .polaroid-front{transform:rotate(10deg)}}
 
 .gallery-summary{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:16px}.gallery-summary p{font-size:10px;color:var(--muted)}.gallery-summary .text-link{font-size:10px}.gallery-summary .icon{width:13px;height:13px}
+.catalog-state{padding:24px;border:1px solid var(--line);border-radius:var(--radius);color:var(--muted);margin-bottom:20px}.catalog-state .text-link{margin-top:10px}
+@media(max-width:600px){.hero-art{overflow:clip}}

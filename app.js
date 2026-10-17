@@ -1,9 +1,25 @@
-(() => {
+(async () => {
   'use strict';
-  const data = window.MORII;
-  if (!data) return;
   const $ = (s, root = document) => root.querySelector(s);
   const $$ = (s, root = document) => Array.from(root.querySelectorAll(s));
+  $('#year').textContent = new Date().getFullYear();
+  $('#catalog-state').hidden = false;
+  $('#catalog-state-message').textContent = 'กำลังโหลดรายการกล้อง…';
+  $$('.catalog-toolbar button, .catalog-toolbar input').forEach(el => { el.disabled = true; });
+  let data;
+  try {
+    data = await window.MoriiData.load(window.MORII_CONFIG, window.MORII);
+  } catch (error) {
+    console.error('Unable to load the morii catalog:', error.message);
+    $('#camera-grid').setAttribute('aria-busy', 'false');
+    $('#catalog-state-message').textContent = 'โหลดรายการกล้องไม่สำเร็จ กรุณาลองอีกครั้ง หรือทัก LINE เพื่อสอบถามร้านค่ะ';
+    $('#catalog-retry').hidden = false;
+    $('#catalog-retry').addEventListener('click', () => location.reload());
+    return;
+  }
+  $('#catalog-state').hidden = true;
+  $('#camera-grid').setAttribute('aria-busy', 'false');
+  $$('.catalog-toolbar button, .catalog-toolbar input').forEach(el => { el.disabled = false; });
   const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const icon = name => `<svg class="icon" aria-hidden="true"><use href="#i-${name}"/></svg>`;
   const safeLink = value => {

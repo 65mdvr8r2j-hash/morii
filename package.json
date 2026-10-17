@@ -1,0 +1,14 @@
+{
+  "name": "morii-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node --env-file-if-exists=.env.local scripts/build.mjs",
+    "build:demo": "node scripts/build.mjs --demo",
+    "seed:generate": "node scripts/generate-seed.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "preview": "node scripts/preview.mjs"
+  }
+}
